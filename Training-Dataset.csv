@@ -1,0 +1,1501 @@
+Identifier,Age,Height,Level of studies,Voice type,accent,Hair color,glasses,Body type,Tattoos,Gender,PK,food,JobInvolvement,WorkLifeBalance,jailexp
+0,21,191.41,1,mid range,East Coast City Dialects,Missing,No,mesomorph,No,M,No,Pizza,8711,8711,1089
+1,**??,194.91,------->?,deep,Southern American,white/gray,No,mesomorph,?,NB,No,Pizza,VeryHigh,4734,?
+2,------->?,170.39,0,high pitched,Midwestern American,black,No,mesomorph,No,M,No,?,VeryHigh,7252,907
+,,,,,,,,,,,,,,,
+4,19,187.54,3,deep,East Coast City Dialects,white/gray,No,ectomorph,Yes,M,No,Pizaa,VeryHigh,5080,635
+5,53,148.04,6,deep,Missing,blond,Yes,Missing,No,NB,Yes,Burger,9599,9599,**??
+------->?,25,150.14,7,mid range,Southern American,Missing,**??,ectomorph,Yes,M,Yes,Burger,Low,Bad,125
+7,44,------->?,7,deep,Missing,blond,Yes,------->?,Yes,F,**??,Burger,8490,8490,------->?
+8,?,163.23,8,deep,Boston,blond,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,6757,1417
+9,50,?,8,deep,Southern American,------->?,Yes,**??,Yes,?,Yes,Burger,VeryHigh,5133,1445
+10,------->?,184.28,3,high pitched,Southern American,blond,**??,mesomorph,Yes,M,No,Apple Pie,Low,Bad,845
+11,49,142.4,6,deep,Southern American,blond,No,mesomorph,No,M,Yes,Burger,VeryHigh,7068,1403
+12,19,201.55,1,high pitched,french,black,Yes,**??,No,F,**??,Hot Dogs,VeryHigh,5057,1299
+13,53,156.6,7,deep,french,blond,Yes,ectomorph,Yes,M,Yes,Hot Dogs,VeryHigh,7470,------->?
+14,21,176.49,0,high pitched,Northern Irish,white/gray,No,mesomorph,No,M,No,Burger,9006,9006,Missing
+15,47,------->?,7,deep,Scottish,blond,Yes,mesomorph,Yes,?,Yes,Burger,8513,8513,?
+,,,,,,,,,,,,,,,
+17,19,180.01,3,mid range,Southern American,black,No,ectomorph,Yes,F,No,Burger,Low,Bad,?
+18,26,156.63,8,deep,Northern Irish,brown,No,mesomorph,No,F,Yes,------->?,VeryHigh,4341,1281
+19,?,?,?,deep,Welsh,white/gray,Yes,mesomorph,No,F,Yes,Burger,Low,Bad,Missing
+20,22,197.56,3,high pitched,Midwestern American,white/gray,No,endomorph,Yes,M,No,Hot Dogs,VeryHigh,6029,?
+21,19,178.83,1,?,Midwestern American,black,?,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,4724,1065
+22,38,169.26,8,mid range,Midwestern American,blond,Yes,ectomorph,Yes,M,Yes,Burger,VeryHigh,6644,Missing
+23,20,200.2,1,deep,Northern Irish,brown,No,**??,No,M,No,Hot Dogs,Medium,Good,?
+24,19,183.79,1,deep,Midwestern American,black,Yes,?,Yes,M,No,Burger,VeryHigh,6833,543
+25,42,140.95,6,deep,Yorkshire,black,Missing,endomorph,Yes,M,------->?,Apple Pie,VeryHigh,4349,------->?
+26,22,204.29,1,high pitched,Northern Irish,black,No,ectomorph,Yes,M,No,Burger,VeryHigh,7233,------->?
+27,?,197.76,2,mid range,Northern Irish,brown,No,endomorph,No,M,?,Pizza,High,great,591
+28,30,164.33,6,deep,Scottish,blond,Yes,ectomorph,No,M,Yes,Missing,Low,Bad,831
+29,**??,193.42,0,mid range,french,red,No,mesomorph,?,M,No,Burger,Low,Bad,137
+30,29,142.54,7,**??,Midwestern American,white/gray,No,?,No,M,Yes,Burger,VeryHigh,3755,855
+31,18,182.57,Missing,------->?,Northern Irish,white/gray,No,endomorph,Yes,M,No,Hot Dogs,7915,7915,?
+32,55,143.08,5,------->?,East Coast City Dialects,blond,Yes,mesomorph,No,Missing,Yes,Burger,VeryHigh,6892,905
+33,23,195.27,2,high pitched,french,black,No,ectomorph,No,M,No,**??,Medium,Good,?
+34,55,140.61,5,deep,East Coast City Dialects,blond,No,mesomorph,No,NB,Yes,Burger,Medium,Good,29
+35,30,155.16,5,deep,**??,blond,Yes,endomorph,No,NB,Yes,Burger,Medium,Good,------->?
+36,24,178.18,2,high pitched,Midwestern American,brown,Yes,mesomorph,Yes,?,No,Hot Dogs,9202,9202,------->?
+37,54,163.21,8,deep,------->?,blond,No,endomorph,Yes,F,Yes,Burger,VeryHigh,6386,1379
+38,45,143.76,7,deep,Midwestern American,brown,?,ectomorph,No,F,Yes,Hot Dogs,VeryHigh,7415,?
+39,43,164.07,5,deep,Southern American,brown,Yes,ectomorph,Yes,M,Yes,Apple Pie,VeryHigh,4529,**??
+40,26,161.33,6,deep,Scottish,blond,Yes,endomorph,Yes,NB,Yes,Pizza,Low,Bad,**??
+41,19,198.38,0,mid range,Southern American,black,No,mesomorph,Yes,M,No,Pizza,8827,8827,?
+42,24,?,2,deep,East Coast City Dialects,**??,Yes,ectomorph,Yes,NB,?,Burger,VeryHigh,5281,235
+43,18,**??,1,high pitched,Northern Irish,black,Yes,ectomorph,Yes,NB,No,------->?,VeryHigh,7158,1385
+44,46,164.71,4,deep,Midwestern American,Missing,Yes,ectomorph,No,M,Yes,Pizza,VeryHigh,4200,------->?
+45,33,158.47,7,deep,Scottish,**??,No,mesomorph,No,F,Yes,Pizza,Low,Bad,1151
+46,21,201.65,1,high pitched,East Coast City Dialects,white/gray,No,mesomorph,Yes,M,No,Pizza,VeryHigh,7079,799
+47,26,155.49,4,deep,Canadian,blond,Missing,endomorph,No,M,Yes,Burger,High,great,------->?
+48,------->?,191.78,0,Missing,Scottish,black,Yes,ectomorph,Yes,NB,No,Hot Dogs,Low,Bad,927
+49,?,199.95,1,high pitched,Cockney,white/gray,Yes,Missing,Yes,M,No,?,Low,Bad,567
+50,39,159.94,**??,high pitched,Cockney,blond,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,6905,65
+51,24,207.27,3,**??,East Coast City Dialects,dyed,No,ectomorph,?,?,No,Hot Dogs,VeryHigh,5278,?
+52,32,151.74,7,deep,Southern American,blond,Yes,ectomorph,Yes,NB,Yes,Burger,8845,8845,1295
+------->?,24,174.73,3,high pitched,Midwestern American,black,No,ectomorph,No,NB,No,Apple Pie,VeryHigh,6923,661
+54,19,197.66,**??,deep,Yorkshire,black,No,ectomorph,Yes,M,No,Burger,VeryHigh,4624,895
+55,25,159.26,4,------->?,Canadian,brown,Yes,mesomorph,Missing,F,Yes,Burger,Medium,Good,525
+56,53,148.07,7,deep,Midwestern American,blond,**??,mesomorph,No,NB,Yes,Burger,Medium,Good,?
+57,54,149.36,8,deep,Italian,brown,No,ectomorph,Yes,F,Yes,Burger,9431,9431,885
+58,41,164.74,7,deep,East Coast City Dialects,brown,No,ectomorph,No,M,Yes,Missing,High,great,?
+59,18,173.95,**??,high pitched,Yorkshire,white/gray,No,mesomorph,Yes,NB,No,Burger,Medium,Good,Missing
+60,34,145.71,5,deep,Midwestern American,brown,Yes,endomorph,No,NB,Yes,Burger,VeryHigh,6773,1435
+61,32,------->?,7,Missing,**??,blond,No,ectomorph,Missing,M,Yes,Pizza,VeryHigh,6551,**??
+62,**??,176.32,2,mid range,Northern Irish,white/gray,No,mesomorph,No,M,No,Burger,VeryHigh,7333,?
+------->?,19,------->?,1,deep,Midwestern American,white/gray,No,endomorph,Yes,F,No,Hot Dogs,9244,9244,1391
+64,29,160.89,6,high pitched,Northern Irish,blond,Yes,**??,No,NB,Yes,Pizza,High,great,1433
+65,39,144.88,4,deep,Welsh,blond,No,endomorph,No,M,Yes,Hot Dogs,VeryHigh,4428,Missing
+66,26,145.78,5,deep,Southern American,**??,Yes,endomorph,------->?,NB,Yes,Hot Dogs,VeryHigh,7122,?
+67,24,184.84,4,mid range,East Coast City Dialects,white/gray,No,Missing,No,M,No,Pizza,High,great,Missing
+68,42,**??,7,Missing,Southern American,brown,No,**??,Yes,F,Yes,Burger,Medium,Good,**??
+69,20,187.32,0,mid range,Southern American,black,No,ectomorph,No,NB,**??,Burger,High,great,191
+70,20,204.79,1,deep,Southern American,white/gray,No,mesomorph,Yes,------->?,No,Burger,High,great,219
+71,22,205.19,0,mid range,Southern American,black,No,**??,No,M,No,Burger,Medium,Good,1179
+72,19,206.45,2,high pitched,Northern Irish,brown,Yes,mesomorph,No,M,No,Burger,7633,7633,?
+73,19,193.48,1,high pitched,Southern American,white/gray,No,ectomorph,No,NB,No,Burger,High,great,207
+?,------->?,151.36,6,deep,------->?,blond,No,ectomorph,No,NB,Yes,Pizza,VeryHigh,6560,847
+75,18,176.94,2,mid range,Southern American,brown,Yes,ectomorph,Yes,F,No,Pizza,Medium,Good,819
+------->?,21,176.2,0,mid range,Southern American,white/gray,No,------->?,No,F,No,Hot Dogs,High,great,917
+77,?,206.5,2,high pitched,East Coast City Dialects,black,No,mesomorph,No,M,No,Burger,8897,8897,Missing
+78,37,Missing,5,mid range,Northern Irish,dyed,Yes,ectomorph,Yes,NB,Yes,Burger,Low,Bad,261
+79,?,161.04,6,deep,french,blond,Yes,mesomorph,No,F,Yes,Apple Pie,VeryHigh,7102,**??
+**??,39,165.1,8,deep,Midwestern American,brown,Yes,mesomorph,No,?,Yes,Burger,High,great,Missing
+81,46,155.27,8,**??,Northern Irish,brown,Yes,ectomorph,Yes,NB,Yes,Burger,VeryHigh,5943,891
+82,55,158.86,8,deep,Midwestern American,white/gray,Yes,mesomorph,No,F,Yes,Burger,High,great,327
+83,49,166.4,5,deep,Midwestern American,blond,Yes,ectomorph,No,F,Yes,Burger,VeryHigh,6079,------->?
+84,30,150.72,7,deep,Southern American,blond,Yes,mesomorph,------->?,F,**??,Apple Pie,8961,8961,399
+Missing,**??,182.54,2,high pitched,Southern American,white/gray,No,endomorph,No,NB,No,Hot Dogs,VeryHigh,5430,269
+86,23,Missing,3,mid range,Northern Irish,Missing,No,endomorph,No,M,No,Hot Dogs,VeryHigh,4322,?
+87,27,166.68,5,deep,Southern American,blond,Yes,ectomorph,No,M,Yes,Burger,VeryHigh,5158,955
+88,38,165.56,7,mid range,Midwestern American,brown,Yes,mesomorph,No,M,Yes,Burger,8193,8193,Missing
+89,18,187.1,2,high pitched,East Coast City Dialects,black,No,mesomorph,No,F,No,------->?,Medium,Good,?
+90,54,153.29,4,deep,Southern American,blond,No,ectomorph,Yes,NB,Yes,Burger,7614,7614,**??
+91,48,163.86,7,mid range,Midwestern American,white/gray,**??,mesomorph,No,M,Yes,Burger,8139,8139,339
+92,34,166.27,4,deep,East Coast City Dialects,blond,No,endomorph,Yes,NB,Yes,Burger,VeryHigh,6546,1113
+Missing,54,145.01,8,deep,East Coast City Dialects,dyed,Yes,ectomorph,No,NB,Yes,Burger,VeryHigh,6684,**??
+94,52,142.64,7,deep,Midwestern American,blond,No,mesomorph,Yes,NB,Yes,Pizza,VeryHigh,6355,------->?
+95,46,158.59,6,deep,Southern American,blond,No,ectomorph,Yes,M,Yes,Pizza,VeryHigh,3514,------->?
+96,45,144.1,7,high pitched,Midwestern American,black,Yes,mesomorph,Yes,F,Yes,Burger,8844,8844,271
+**??,18,174.35,1,deep,Welsh,blond,No,mesomorph,Yes,M,No,Burger,VeryHigh,7251,------->?
+98,22,179.94,4,high pitched,Northern Irish,**??,No,ectomorph,Yes,F,No,Burger,8148,8148,743
+99,21,191.92,4,Missing,Midwestern American,white/gray,No,mesomorph,No,NB,No,Missing,VeryHigh,3596,?
+100,35,163.67,6,deep,Southern American,brown,Yes,mesomorph,------->?,NB,Yes,Pizza,High,great,Missing
+101,------->?,166.02,7,deep,Midwestern American,blond,Yes,endomorph,Yes,NB,Yes,Missing,High,great,1121
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+111,20,195.87,4,high pitched,Canadian,black,No,ectomorph,No,M,No,Burger,VeryHigh,4771,1425
+112,27,148,8,deep,Missing,brown,No,endomorph,Yes,M,Yes,?,Medium,Good,------->?
+113,23,176.42,0,deep,Northern Irish,white/gray,Yes,mesomorph,No,F,No,Burger,VeryHigh,4699,795
+114,24,196.16,------->?,mid range,Welsh,white/gray,Yes,mesomorph,No,M,No,Burger,High,great,1291
+115,53,159.93,------->?,mid range,Southern American,brown,Yes,endomorph,Yes,**??,Yes,Burger,High,great,**??
+116,55,164.02,6,high pitched,Northern Irish,brown,Yes,mesomorph,No,M,Yes,Hot Dogs,High,great,?
+117,45,162.59,5,high pitched,East Coast City Dialects,brown,No,ectomorph,Yes,M,------->?,**??,VeryHigh,7477,------->?
+118,19,181.45,0,mid range,Southern American,white/gray,Yes,mesomorph,Yes,M,No,Burger,VeryHigh,4818,1019
+119,------->?,163.09,8,mid range,Midwestern American,brown,Yes,**??,Yes,M,Yes,Burger,High,great,**??
+120,**??,165.57,7,------->?,Italian,brown,No,endomorph,Yes,M,Yes,Burger,Low,Bad,1315
+121,32,161.8,4,high pitched,Midwestern American,blond,Yes,endomorph,Yes,M,Yes,Pizza,High,great,297
+122,20,170.17,2,mid range,East Coast City Dialects,black,**??,mesomorph,Yes,F,**??,Hot Dogs,VeryHigh,5178,305
+123,22,177.15,3,mid range,Midwestern American,black,Yes,ectomorph,Yes,M,No,Burger,Low,Bad,947
+124,23,177.16,4,high pitched,Northern Irish,**??,No,ectomorph,Yes,M,No,Burger,VeryHigh,4582,777
+125,36,165.76,5,high pitched,Southern American,black,Yes,endomorph,------->?,F,Yes,Hot Dogs,VeryHigh,6565,?
+126,35,167.21,8,deep,East Coast City Dialects,brown,Yes,**??,No,**??,Yes,Burger,Low,Bad,?
+127,31,146.65,5,**??,Missing,brown,Yes,mesomorph,Yes,M,Yes,Burger,9714,9714,493
+128,53,153.4,8,deep,Midwestern American,black,Yes,mesomorph,Yes,NB,Yes,Pizza,VeryHigh,6630,529
+129,22,207.95,0,mid range,Midwestern American,black,No,mesomorph,No,M,No,Burger,Low,Bad,------->?
+130,19,179.86,4,high pitched,East Coast City Dialects,white/gray,Yes,endomorph,No,M,**??,?,9730,9730,**??
+131,**??,159.47,7,deep,Scottish,blond,Yes,mesomorph,No,NB,Yes,Burger,High,great,537
+132,21,190.66,0,high pitched,------->?,red,No,endomorph,No,M,No,**??,VeryHigh,7062,**??
+133,18,174.2,Missing,high pitched,Midwestern American,black,No,ectomorph,No,M,No,Burger,VeryHigh,3503,597
+134,35,160.64,Missing,deep,Canadian,brown,Yes,mesomorph,No,F,Yes,Burger,High,great,------->?
+135,41,143.14,5,deep,Welsh,?,No,mesomorph,No,NB,Yes,Burger,High,great,?
+Missing,23,199.35,3,high pitched,East Coast City Dialects,black,Yes,mesomorph,No,F,No,Burger,VeryHigh,5072,377
+137,53,152,8,------->?,East Coast City Dialects,brown,Missing,mesomorph,Yes,F,Missing,Apple Pie,VeryHigh,5403,279
+138,24,180.97,1,deep,Midwestern American,white/gray,No,?,**??,F,No,Pizza,7926,7926,431
+139,45,151.8,8,deep,Southern American,blond,Yes,?,No,NB,Yes,Burger,VeryHigh,5989,935
+140,23,195.05,1,high pitched,Scottish,brown,No,ectomorph,Missing,F,No,Pizza,7509,7509,603
+141,21,198.21,0,mid range,?,black,Yes,**??,Yes,M,No,Burger,Low,Bad,401
+142,19,206.6,2,high pitched,Scottish,**??,No,ectomorph,Yes,M,No,Burger,High,great,------->?
+143,50,155.47,8,deep,Southern American,blond,Yes,mesomorph,?,M,Yes,Burger,8746,8746,313
+144,43,160.14,8,deep,Yorkshire,blond,No,endomorph,No,M,Missing,Burger,VeryHigh,3560,?
+145,26,151.48,**??,high pitched,Southern American,blond,Yes,mesomorph,?,**??,Yes,Apple Pie,8156,8156,35
+------->?,21,193.98,0,high pitched,Northern Irish,white/gray,Yes,mesomorph,Yes,M,No,Hot Dogs,VeryHigh,5559,**??
+147,45,156.93,6,mid range,french,blond,Yes,mesomorph,No,NB,Yes,Apple Pie,VeryHigh,4036,573
+148,52,163.07,4,Missing,Northern Irish,brown,Yes,------->?,Yes,NB,Yes,Burger,VeryHigh,7028,821
+149,47,159.85,6,deep,Northern Irish,blond,Yes,ectomorph,No,F,Yes,Pizza,8188,8188,53
+150,56,?,7,mid range,Midwestern American,blond,Yes,endomorph,**??,**??,Yes,Pizza,Low,Bad,1215
+**??,55,**??,7,mid range,Southern American,**??,No,mesomorph,Yes,M,Yes,Burger,Low,Bad,829
+152,19,193.55,------->?,high pitched,Boston,black,No,mesomorph,Yes,M,?,Burger,Low,Bad,115
+153,22,197.9,3,Missing,Midwestern American,black,No,endomorph,No,M,No,Apple Pie,7847,7847,1217
+154,26,147.69,8,deep,Canadian,blond,No,------->?,No,F,Yes,Burger,VeryHigh,5568,345
+155,21,177.77,1,Missing,Northern Irish,white/gray,No,endomorph,Yes,M,No,------->?,9292,9292,883
+156,------->?,196.39,3,mid range,East Coast City Dialects,white/gray,Yes,mesomorph,Yes,M,No,Pizza,High,great,------->?
+157,49,147.33,8,deep,Northern Irish,?,Yes,mesomorph,Yes,F,Yes,**??,High,great,?
+158,32,164.51,8,deep,Northern Irish,blond,Yes,ectomorph,No,M,Yes,Burger,Medium,Good,1357
+159,34,157.47,8,mid range,Canadian,red,Yes,mesomorph,Yes,F,Yes,Pizza,High,great,**??
+160,42,**??,8,------->?,Welsh,blond,No,ectomorph,?,M,Yes,Burger,VeryHigh,4798,**??
+161,51,164.22,------->?,deep,Northern Irish,brown,Yes,mesomorph,Yes,M,Yes,Pizza,8380,8380,991
+162,33,152.96,7,deep,East Coast City Dialects,blond,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,4840,749
+163,24,208.82,3,deep,Missing,white/gray,Yes,endomorph,Yes,M,------->?,Hot Dogs,VeryHigh,4580,939
+164,22,184.99,4,high pitched,Northern Irish,white/gray,No,ectomorph,No,NB,No,Pizza,VeryHigh,5201,------->?
+165,19,206.54,?,high pitched,Southern American,dyed,Yes,mesomorph,Missing,?,**??,Burger,7707,7707,------->?
+166,47,148.64,4,deep,**??,blond,No,mesomorph,Yes,F,Yes,Pizza,VeryHigh,6180,**??
+167,28,152.45,7,deep,french,brown,Yes,ectomorph,Yes,NB,Yes,Burger,VeryHigh,5457,445
+168,20,196.1,1,high pitched,Midwestern American,white/gray,------->?,ectomorph,No,?,?,Pizza,VeryHigh,4344,?
+169,43,142.99,7,mid range,Scottish,brown,Yes,ectomorph,Yes,F,Yes,Burger,High,great,695
+170,36,166.85,5,mid range,**??,brown,Yes,mesomorph,No,F,Yes,Apple Pie,VeryHigh,4891,505
+**??,45,162.1,5,mid range,Midwestern American,blond,Yes,ectomorph,No,NB,Yes,Burger,9343,9343,879
+172,43,153.07,8,deep,Southern American,brown,Yes,mesomorph,Yes,?,Yes,Burger,Low,Bad,Missing
+173,47,156.91,4,------->?,Southern American,brown,?,**??,Yes,NB,Yes,Burger,8497,8497,121
+174,18,Missing,1,high pitched,Northern Irish,black,No,Missing,No,M,No,Hot Dogs,8537,8537,**??
+175,39,151.87,4,deep,Midwestern American,------->?,Missing,mesomorph,Yes,M,**??,Burger,Medium,Good,25
+176,24,179.87,4,high pitched,Italian,white/gray,Yes,ectomorph,No,?,No,?,Low,Bad,981
+177,?,166.22,------->?,deep,East Coast City Dialects,blond,No,endomorph,Yes,M,Yes,Burger,VeryHigh,6902,**??
+178,56,169.48,7,mid range,------->?,blond,Yes,endomorph,Yes,M,Yes,Pizza,Low,Bad,**??
+179,55,154.4,8,deep,------->?,blond,Missing,Missing,Yes,M,Yes,Burger,9792,9792,------->?
+180,33,141.27,7,mid range,East Coast City Dialects,blond,Yes,**??,No,NB,Yes,Pizza,VeryHigh,6086,?
+181,21,195.47,0,deep,East Coast City Dialects,Missing,Yes,ectomorph,Yes,M,No,Hot Dogs,Low,Bad,**??
+182,39,143.84,4,deep,East Coast City Dialects,blond,Yes,mesomorph,Yes,M,Yes,Burger,High,great,------->?
+183,21,192.29,4,mid range,Midwestern American,white/gray,No,ectomorph,No,NB,No,Burger,7963,7963,------->?
+184,54,164.28,4,deep,East Coast City Dialects,brown,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,3644,**??
+185,19,**??,0,high pitched,Northern Irish,dyed,Yes,ectomorph,No,M,No,Hot Dogs,High,great,605
+186,36,149.22,8,deep,Cockney,brown,Yes,ectomorph,No,NB,Yes,Burger,7763,7763,1353
+187,23,193.83,2,high pitched,Italian,black,No,ectomorph,Yes,NB,No,Burger,Low,Bad,651
+188,38,150.41,8,high pitched,Southern American,brown,Yes,ectomorph,No,M,Yes,Apple Pie,Low,Bad,**??
+?,24,183.02,------->?,high pitched,Welsh,white/gray,No,mesomorph,Yes,M,No,**??,High,great,773
+190,22,177.48,3,mid range,East Coast City Dialects,white/gray,No,mesomorph,**??,M,No,Burger,VeryHigh,6276,1453
+191,22,185.36,3,high pitched,Northern Irish,white/gray,No,ectomorph,Yes,NB,No,**??,Medium,Good,683
+192,19,171.48,0,high pitched,Yorkshire,white/gray,No,ectomorph,Yes,F,No,Hot Dogs,Low,Bad,**??
+?,**??,161.37,7,mid range,Southern American,brown,Yes,mesomorph,?,Missing,Yes,------->?,7631,7631,285
+194,22,187.89,?,**??,Southern American,black,No,mesomorph,No,M,No,Pizza,Medium,Good,------->?
+195,24,209.64,------->?,mid range,Midwestern American,black,Yes,ectomorph,**??,M,No,Burger,VeryHigh,3549,Missing
+196,40,Missing,8,?,Missing,**??,Yes,mesomorph,No,M,Yes,Burger,High,great,Missing
+197,24,180.28,2,deep,Midwestern American,------->?,No,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,4315,99
+198,48,147.64,8,**??,------->?,blond,No,mesomorph,No,M,Yes,Burger,VeryHigh,6955,1063
+199,**??,193.66,0,mid range,Northern Irish,white/gray,Missing,ectomorph,No,M,No,Hot Dogs,Low,Bad,?
+200,------->?,188.74,3,mid range,Welsh,white/gray,No,ectomorph,No,F,No,Hot Dogs,VeryHigh,4207,?
+201,20,171.93,0,high pitched,?,white/gray,Yes,endomorph,No,M,No,Hot Dogs,VeryHigh,6444,109
+Missing,36,150.07,4,deep,Northern Irish,blond,Yes,ectomorph,No,M,Yes,Burger,VeryHigh,3652,863
+203,39,152.65,8,mid range,Missing,dyed,?,mesomorph,No,NB,**??,Pizza,Low,Bad,**??
+204,21,190.87,1,deep,Midwestern American,blond,Yes,------->?,Yes,M,No,Burger,High,great,**??
+205,41,167.8,5,high pitched,Cockney,brown,Yes,mesomorph,No,M,**??,Burger,VeryHigh,4568,761
+,,,,,,,,,,,,,,,
+207,44,144.44,7,?,Northern Irish,blond,Yes,mesomorph,Yes,M,Yes,?,High,great,------->?
+208,19,203.53,0,mid range,Northern Irish,brown,Yes,endomorph,No,M,No,Pizza,VeryHigh,4714,**??
+209,43,163.97,8,deep,Midwestern American,black,No,mesomorph,Yes,?,Yes,Burger,VeryHigh,5511,------->?
+210,25,146.41,4,deep,East Coast City Dialects,Missing,Yes,mesomorph,No,F,Yes,Apple Pie,VeryHigh,3924,397
+211,19,181.06,1,high pitched,Canadian,white/gray,Yes,mesomorph,No,NB,No,Hot Dogs,VeryHigh,7108,971
+212,18,185.18,3,mid range,Northern Irish,dyed,**??,mesomorph,Yes,F,No,Apple Pie,Low,Bad,?
+213,52,153.37,7,Missing,Southern American,blond,Yes,ectomorph,Yes,NB,Yes,Burger,High,great,Missing
+214,45,150.84,7,deep,Northern Irish,blond,No,mesomorph,No,**??,Yes,Missing,VeryHigh,4295,255
+215,18,173.57,2,high pitched,Scottish,black,------->?,mesomorph,Yes,NB,No,Burger,Low,Bad,785
+216,19,209.97,0,high pitched,Cockney,black,No,mesomorph,No,M,No,Burger,VeryHigh,5045,**??
+,,,,,,,,,,,,,,,
+?,24,188.28,?,high pitched,Northern Irish,white/gray,Yes,ectomorph,No,M,No,Hot Dogs,8735,8735,------->?
+219,24,187.77,2,high pitched,Cockney,white/gray,No,mesomorph,No,M,No,Pizza,8971,8971,179
+220,19,170.21,3,high pitched,East Coast City Dialects,red,**??,mesomorph,?,NB,No,Pizza,VeryHigh,6672,------->?
+221,46,162.99,8,Missing,Boston,blond,Yes,mesomorph,No,M,Yes,Burger,8184,8184,359
+222,51,161.83,5,deep,Midwestern American,black,Yes,ectomorph,Yes,M,Yes,Burger,Medium,Good,Missing
+223,53,143.98,?,deep,Southern American,brown,Yes,endomorph,No,**??,Yes,Burger,Low,Bad,**??
+224,38,?,5,deep,East Coast City Dialects,white/gray,Yes,ectomorph,No,NB,Yes,Burger,9407,9407,?
+225,24,193.76,3,high pitched,------->?,white/gray,No,ectomorph,No,F,------->?,Hot Dogs,Medium,Good,Missing
+226,21,192.55,0,Missing,Northern Irish,brown,Yes,endomorph,Yes,M,No,Apple Pie,7625,7625,Missing
+Missing,19,177.61,3,high pitched,Southern American,brown,No,mesomorph,No,M,No,Burger,VeryHigh,5987,457
+228,40,164.4,7,deep,Southern American,blond,Yes,mesomorph,No,**??,Yes,Burger,VeryHigh,5994,1
+229,24,190.47,2,high pitched,East Coast City Dialects,brown,No,endomorph,No,M,No,Burger,VeryHigh,7307,259
+230,Missing,146.09,8,mid range,Midwestern American,black,No,ectomorph,No,------->?,Yes,Pizza,8975,8975,571
+231,55,**??,5,deep,Cockney,black,Yes,ectomorph,No,NB,Yes,Burger,VeryHigh,5832,587
+232,40,156.65,4,------->?,Midwestern American,blond,Yes,mesomorph,No,F,Yes,Apple Pie,Low,Bad,**??
+233,39,Missing,?,------->?,Missing,brown,Yes,mesomorph,Yes,M,Yes,Burger,VeryHigh,5452,?
+234,19,195.23,4,high pitched,Midwestern American,white/gray,No,mesomorph,Yes,NB,No,Apple Pie,High,great,689
+235,34,163.62,4,deep,Midwestern American,brown,Yes,ectomorph,Yes,F,Yes,Burger,VeryHigh,7475,491
+236,51,169.25,4,deep,Welsh,brown,No,**??,No,M,Yes,Pizza,8686,8686,889
+------->?,?,168.35,4,deep,Midwestern American,blond,Yes,mesomorph,No,M,**??,Burger,High,great,107
+,,,,,,,,,,,,,,,
+Missing,23,201.44,0,deep,Yorkshire,white/gray,?,ectomorph,No,M,No,Hot Dogs,High,great,------->?
+240,42,145,7,deep,Southern American,brown,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5904,?
+241,43,147.37,7,deep,Yorkshire,brown,No,Missing,No,NB,Yes,Burger,VeryHigh,5081,631
+242,**??,160.54,6,------->?,Cockney,brown,Yes,mesomorph,No,NB,Yes,Hot Dogs,VeryHigh,5572,?
+243,22,207.42,3,high pitched,Midwestern American,blond,Yes,mesomorph,No,NB,No,Burger,VeryHigh,4706,?
+244,------->?,151.49,5,deep,Southern American,brown,No,ectomorph,Yes,M,Yes,Burger,Low,Bad,Missing
+245,19,189.23,3,high pitched,Northern Irish,black,No,endomorph,No,F,No,Hot Dogs,VeryHigh,5386,**??
+246,34,151.3,6,deep,Boston,blond,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,4985,1023
+247,21,177.82,0,**??,Scottish,black,No,ectomorph,Yes,M,No,Pizza,Medium,Good,Missing
+248,Missing,143.97,7,------->?,Canadian,blond,No,mesomorph,No,M,Yes,Pizza,8745,8745,?
+249,18,207.44,2,high pitched,East Coast City Dialects,brown,No,ectomorph,Yes,F,No,Burger,High,great,------->?
+250,22,180.05,0,mid range,East Coast City Dialects,**??,Yes,mesomorph,No,M,No,Burger,VeryHigh,5963,1431
+251,47,165.99,4,mid range,------->?,------->?,Yes,mesomorph,No,F,Yes,Burger,High,great,Missing
+252,45,146.25,4,Missing,Midwestern American,black,No,mesomorph,Yes,M,Yes,Pizza,VeryHigh,5195,Missing
+253,35,153.61,5,Missing,?,brown,No,mesomorph,Yes,M,Yes,Apple Pie,VeryHigh,4685,Missing
+?,22,188.34,1,high pitched,East Coast City Dialects,brown,?,ectomorph,Yes,F,No,Pizza,Low,Bad,------->?
+255,21,198.21,1,high pitched,East Coast City Dialects,white/gray,Yes,mesomorph,Yes,NB,?,Burger,Low,Bad,?
+256,**??,155.14,6,mid range,Yorkshire,blond,No,mesomorph,Yes,NB,Yes,Burger,High,great,729
+,,,,,,,,,,,,,,,
+258,34,155.32,Missing,deep,Boston,brown,No,mesomorph,Yes,Missing,Yes,Burger,VeryHigh,6775,Missing
+259,20,200.49,1,mid range,Midwestern American,brown,**??,------->?,Yes,NB,No,Hot Dogs,High,great,**??
+260,21,179.76,4,mid range,East Coast City Dialects,blond,Yes,mesomorph,No,F,No,Pizza,Medium,Good,1361
+261,**??,187.62,3,high pitched,East Coast City Dialects,black,Yes,ectomorph,Yes,NB,No,Missing,8623,8623,?
+262,36,?,4,high pitched,Midwestern American,brown,Yes,mesomorph,Yes,Missing,Yes,Burger,8151,8151,299
+263,46,156.83,5,deep,Canadian,blond,No,mesomorph,Yes,M,------->?,Burger,VeryHigh,4953,611
+264,36,144.84,6,deep,Cockney,brown,Yes,?,------->?,F,Yes,Missing,8744,8744,------->?
+265,22,193.8,1,deep,Midwestern American,white/gray,Yes,mesomorph,No,F,?,Hot Dogs,9352,9352,Missing
+266,24,------->?,3,deep,Midwestern American,black,No,mesomorph,No,M,No,Burger,8307,8307,**??
+Missing,18,------->?,Missing,deep,?,white/gray,Yes,endomorph,Yes,NB,No,Pizza,9316,9316,697
+268,28,154.97,8,deep,Welsh,blond,Yes,mesomorph,No,F,Yes,Hot Dogs,VeryHigh,6202,589
+269,18,196.46,4,mid range,Northern Irish,brown,Yes,ectomorph,No,M,No,Burger,Low,Bad,**??
+270,50,158.95,4,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,NB,Yes,Burger,High,great,**??
+271,27,165.18,5,mid range,Northern Irish,brown,?,ectomorph,Yes,M,Yes,Apple Pie,Medium,Good,**??
+272,24,174.06,0,high pitched,Missing,white/gray,Yes,mesomorph,Yes,M,No,Hot Dogs,8460,8460,------->?
+273,31,**??,7,mid range,french,white/gray,No,ectomorph,No,------->?,Yes,Hot Dogs,8567,8567,------->?
+274,**??,140.59,8,deep,Northern Irish,blond,Yes,ectomorph,No,M,Yes,Pizza,Medium,Good,?
+275,36,162.73,6,deep,Northern Irish,brown,No,ectomorph,No,F,Yes,Burger,VeryHigh,7115,**??
+276,21,209.33,0,high pitched,East Coast City Dialects,black,No,ectomorph,Yes,M,No,Burger,VeryHigh,6535,?
+277,20,190.09,0,deep,East Coast City Dialects,black,No,ectomorph,Yes,M,No,Pizza,Low,Bad,------->?
+278,39,148.3,5,mid range,Yorkshire,blond,Yes,endomorph,Yes,M,Yes,Burger,High,great,**??
+279,48,141.41,5,deep,Northern Irish,black,------->?,mesomorph,Yes,Missing,Yes,Burger,8333,8333,113
+280,52,152.7,7,mid range,East Coast City Dialects,brown,No,------->?,Yes,M,Yes,Pizza,High,great,------->?
+281,35,167.95,------->?,------->?,Southern American,blond,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,7456,Missing
+282,22,177.46,4,high pitched,Midwestern American,white/gray,Yes,ectomorph,No,NB,No,Burger,VeryHigh,7128,------->?
+283,32,142.65,4,deep,Canadian,red,Yes,mesomorph,?,M,Yes,Burger,VeryHigh,4336,?
+284,22,197,?,Missing,Southern American,white/gray,Yes,mesomorph,No,Missing,No,Hot Dogs,VeryHigh,3612,287
+285,37,160.17,6,deep,Missing,brown,Yes,Missing,Yes,M,Yes,Hot Dogs,VeryHigh,7430,129
+286,21,203.49,4,mid range,Midwestern American,white/gray,No,**??,Yes,NB,No,Hot Dogs,VeryHigh,3735,**??
+287,51,160.28,8,deep,french,------->?,No,ectomorph,No,M,Yes,Burger,Medium,Good,------->?
+288,24,180.93,2,**??,Midwestern American,white/gray,No,ectomorph,No,NB,No,Hot Dogs,Low,Bad,**??
+289,22,184.86,1,high pitched,Midwestern American,white/gray,No,ectomorph,?,?,No,Hot Dogs,VeryHigh,6898,1093
+290,42,153.85,4,mid range,East Coast City Dialects,brown,Yes,mesomorph,Yes,NB,Yes,Burger,Medium,Good,1169
+------->?,?,161.28,6,mid range,Northern Irish,brown,Yes,ectomorph,Yes,------->?,Yes,Burger,VeryHigh,6620,1039
+**??,27,Missing,8,deep,Boston,Missing,No,endomorph,No,M,**??,Burger,VeryHigh,6433,1165
+293,41,165.88,7,high pitched,**??,blond,Yes,ectomorph,Yes,NB,Yes,Hot Dogs,High,great,Missing
+294,21,185.74,3,high pitched,Northern Irish,red,Yes,mesomorph,Yes,M,No,Hot Dogs,8172,8172,------->?
+295,24,200.86,3,mid range,East Coast City Dialects,white/gray,No,endomorph,Yes,NB,No,**??,8431,8431,------->?
+296,18,189.62,0,high pitched,Midwestern American,white/gray,No,------->?,Yes,M,Missing,Hot Dogs,9846,9846,?
+297,41,162.25,7,deep,Northern Irish,?,No,endomorph,No,F,Yes,Burger,VeryHigh,7162,**??
+298,?,174.47,1,mid range,East Coast City Dialects,Missing,No,endomorph,Yes,M,No,**??,8550,8550,1071
+299,20,185.69,1,high pitched,Midwestern American,?,No,endomorph,No,M,No,Burger,High,great,------->?
+300,?,147.58,8,deep,french,blond,Yes,?,No,F,Yes,Burger,VeryHigh,7320,?
+301,44,168.69,5,deep,Midwestern American,blond,Yes,endomorph,------->?,M,Yes,Burger,High,great,817
+?,35,141.45,4,deep,Midwestern American,black,No,mesomorph,No,M,Yes,Burger,9686,9686,**??
+303,47,155.9,8,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,F,Yes,?,Low,Bad,Missing
+------->?,56,140.19,8,deep,East Coast City Dialects,white/gray,Yes,mesomorph,Yes,M,Yes,Hot Dogs,8733,8733,------->?
+305,48,159.54,8,high pitched,East Coast City Dialects,blond,Yes,endomorph,No,NB,Yes,Burger,VeryHigh,5682,383
+306,42,**??,5,------->?,Midwestern American,brown,Yes,ectomorph,Yes,F,Yes,Burger,7807,7807,------->?
+307,19,180.84,1,high pitched,East Coast City Dialects,white/gray,Yes,ectomorph,Yes,NB,No,Pizza,8720,8720,1419
+?,48,155.21,7,deep,Missing,blond,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5616,------->?
+309,29,165.88,5,deep,Cockney,brown,No,mesomorph,Yes,F,Yes,Burger,VeryHigh,3614,?
+310,49,145.49,------->?,deep,East Coast City Dialects,red,------->?,endomorph,**??,NB,Yes,Burger,VeryHigh,3768,929
+311,20,171.12,2,high pitched,Boston,black,No,ectomorph,No,M,No,Hot Dogs,VeryHigh,7288,467
+312,50,159.59,6,deep,Northern Irish,blond,Yes,ectomorph,Missing,NB,Yes,Burger,VeryHigh,6311,171
+313,21,Missing,2,deep,Northern Irish,black,Yes,mesomorph,No,F,No,Burger,VeryHigh,4903,1287
+314,19,191.99,0,high pitched,Southern American,white/gray,No,mesomorph,No,M,No,Pizza,Medium,Good,**??
+315,27,156.09,7,?,Midwestern American,?,Yes,endomorph,No,Missing,Yes,Apple Pie,High,great,135
+316,38,151.97,4,mid range,Northern Irish,------->?,Yes,ectomorph,No,NB,Yes,Pizza,Low,Bad,?
+317,44,160.94,6,deep,Missing,blond,Yes,endomorph,No,M,Yes,Apple Pie,Low,Bad,805
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+------->?,?,148.2,7,deep,Yorkshire,white/gray,Yes,ectomorph,Yes,F,Yes,Burger,9651,9651,------->?
+323,23,202.07,3,high pitched,Southern American,**??,No,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,4823,1069
+324,31,142.06,8,mid range,Boston,brown,Yes,------->?,Yes,NB,Yes,Burger,Medium,Good,373
+325,18,199.84,2,high pitched,East Coast City Dialects,red,No,ectomorph,Missing,?,No,?,VeryHigh,6987,915
+326,32,145.32,8,mid range,------->?,brown,?,------->?,No,NB,Yes,Pizza,Medium,Good,------->?
+327,45,153.63,4,deep,Yorkshire,blond,No,ectomorph,------->?,F,Yes,Hot Dogs,High,great,------->?
+328,150,152.13,1000,deep,Northern Irish,white/gray,Yes,ectomorph,Yes,F,Yes,Hot Dogs,VeryHigh,5684,1257
+329,41,143.53,8,deep,East Coast City Dialects,brown,Missing,?,No,------->?,Yes,Burger,VeryHigh,5605,711
+330,26,164.25,7,------->?,**??,brown,Yes,ectomorph,Yes,F,Yes,**??,VeryHigh,6366,Missing
+331,35,154.75,8,**??,Canadian,brown,Yes,mesomorph,No,F,Yes,Apple Pie,Low,Bad,------->?
+332,Missing,?,0,Missing,Southern American,brown,No,endomorph,Yes,NB,No,Hot Dogs,VeryHigh,7407,------->?
+333,------->?,?,2,mid range,Midwestern American,white/gray,No,mesomorph,Yes,NB,No,Hot Dogs,9081,9081,1191
+334,43,167.64,5,deep,East Coast City Dialects,blond,Yes,ectomorph,**??,M,Yes,Apple Pie,VeryHigh,4424,471
+335,20,Missing,1,------->?,Italian,black,Yes,mesomorph,Yes,M,No,Burger,9004,9004,911
+336,22,203.6,4,mid range,Cockney,red,No,endomorph,Yes,M,No,Hot Dogs,VeryHigh,5802,789
+337,46,159.94,6,deep,Northern Irish,blond,**??,endomorph,No,M,Yes,Apple Pie,VeryHigh,7167,613
+338,47,161.49,4,deep,------->?,blond,Yes,mesomorph,Yes,M,Yes,?,VeryHigh,4566,Missing
+339,31,155.68,7,deep,french,Missing,No,mesomorph,Yes,F,Yes,Apple Pie,9371,9371,Missing
+340,43,165.21,8,deep,Southern American,brown,No,mesomorph,No,M,Yes,Burger,9041,9041,27
+341,24,193.84,4,high pitched,Northern Irish,red,No,mesomorph,No,M,No,Missing,VeryHigh,5696,81
+**??,18,205.37,2,mid range,Welsh,?,No,mesomorph,No,NB,No,Hot Dogs,High,great,357
+343,Missing,192.2,1,mid range,Northern Irish,blond,No,mesomorph,?,M,No,Burger,Low,Bad,1343
+344,20,203.8,0,mid range,Boston,**??,Yes,mesomorph,No,------->?,No,Hot Dogs,VeryHigh,6439,**??
+345,56,162.83,4,deep,East Coast City Dialects,brown,Yes,mesomorph,No,F,Yes,Apple Pie,9213,9213,Missing
+346,29,141.99,422,deep,Midwestern American,white/gray,No,ectomorph,Yes,F,Yes,Burger,High,great,**??
+347,28,**??,4,**??,East Coast City Dialects,blond,Yes,endomorph,No,F,Yes,?,7754,7754,149
+348,48,169.72,8,deep,------->?,------->?,Yes,mesomorph,No,Missing,Yes,Pizza,9040,9040,------->?
+349,34,141.17,7,deep,Southern American,brown,No,ectomorph,No,F,Yes,Pizza,9268,9268,**??
+350,34,150.01,8,deep,East Coast City Dialects,blond,Yes,mesomorph,No,------->?,Yes,Burger,VeryHigh,5602,1157
+351,48,162.02,8,deep,Northern Irish,blond,Yes,mesomorph,Yes,M,Yes,Apple Pie,High,great,1171
+352,47,157.7,8,------->?,Cockney,brown,?,ectomorph,Yes,NB,Yes,Burger,VeryHigh,5313,701
+?,29,**??,7,deep,Southern American,blond,No,mesomorph,Yes,NB,Yes,Burger,High,great,**??
+------->?,**??,195.03,3,deep,Northern Irish,brown,No,mesomorph,Yes,?,**??,Hot Dogs,Medium,Good,89
+355,34,162.19,4,deep,**??,brown,Yes,mesomorph,No,?,Yes,Hot Dogs,7811,7811,Missing
+356,?,208.6,4,deep,East Coast City Dialects,?,No,mesomorph,Yes,NB,No,Burger,VeryHigh,6274,?
+357,18,------->?,3,mid range,Midwestern American,black,Missing,ectomorph,Yes,M,No,------->?,Low,Bad,553
+358,25,146.71,5,deep,East Coast City Dialects,blond,Yes,endomorph,Yes,M,Yes,Hot Dogs,VeryHigh,6073,Missing
+359,38,167.48,8,deep,Midwestern American,blond,No,mesomorph,Yes,NB,Yes,------->?,VeryHigh,6435,------->?
+360,56,149.1,7,deep,Missing,brown,Yes,mesomorph,No,M,Yes,**??,Medium,Good,**??
+361,20,197.94,0,high pitched,Southern American,white/gray,Missing,endomorph,No,F,------->?,------->?,8565,8565,?
+362,52,160.69,?,deep,Midwestern American,brown,Yes,endomorph,Missing,F,Yes,Burger,Low,Bad,1131
+363,24,184.43,3,deep,------->?,dyed,No,mesomorph,Yes,NB,No,------->?,Low,Bad,Missing
+364,23,207.61,3,mid range,Midwestern American,black,Yes,ectomorph,Yes,NB,No,Burger,7803,7803,------->?
+365,50,160.61,7,deep,East Coast City Dialects,dyed,No,endomorph,No,M,Yes,?,Medium,Good,19
+366,56,164.37,6,deep,Northern Irish,brown,Yes,mesomorph,Yes,F,Missing,Hot Dogs,8034,8034,1183
+367,40,157.66,6,high pitched,Northern Irish,dyed,No,ectomorph,Yes,NB,Yes,Missing,High,great,1271
+368,49,145.72,4,mid range,Northern Irish,**??,Yes,mesomorph,No,M,Yes,Burger,8708,8708,?
+369,24,204.29,1,mid range,Southern American,white/gray,No,ectomorph,Yes,M,No,Burger,VeryHigh,7025,**??
+370,------->?,153.11,4,Missing,Northern Irish,brown,Yes,endomorph,No,**??,Yes,Pizza,8270,8270,?
+371,46,141.31,6,deep,Boston,blond,Yes,mesomorph,No,F,Yes,Burger,Low,Bad,?
+372,36,**??,5,mid range,Southern American,brown,No,mesomorph,No,M,Yes,Burger,Medium,Good,665
+373,19,203.67,4,mid range,Missing,white/gray,Yes,mesomorph,No,?,No,Burger,High,great,Missing
+374,49,151.06,4,deep,Cockney,red,Yes,mesomorph,Yes,F,Yes,Apple Pie,7889,7889,**??
+375,19,185.78,3,high pitched,Southern American,black,No,endomorph,Yes,NB,No,Burger,9905,9905,977
+376,21,173.31,4,------->?,------->?,white/gray,No,ectomorph,No,M,No,Burger,VeryHigh,6226,1285
+377,54,151.55,8,high pitched,Midwestern American,**??,Yes,ectomorph,Yes,?,Yes,------->?,Low,Bad,33
+378,------->?,Missing,5,deep,Midwestern American,blond,No,endomorph,?,M,Yes,Pizza,Medium,Good,Missing
+379,56,167.27,7,mid range,Midwestern American,brown,No,endomorph,No,F,Yes,Burger,8023,8023,------->?
+380,32,164.75,7,high pitched,?,brown,Yes,mesomorph,Yes,NB,Missing,Burger,7709,7709,------->?
+381,56,148.16,5,deep,Cockney,blond,No,ectomorph,Yes,M,Yes,?,8353,8353,------->?
+382,35,142.2,7,deep,Northern Irish,brown,No,mesomorph,No,?,Yes,Pizza,VeryHigh,3879,?
+383,18,177.61,------->?,high pitched,Southern American,black,Yes,ectomorph,No,**??,No,Burger,9454,9454,71
+384,44,166.97,Missing,deep,Midwestern American,blond,No,**??,Yes,M,Yes,Burger,Medium,Good,------->?
+385,------->?,156.56,8,high pitched,Midwestern American,blond,Yes,ectomorph,Yes,F,Yes,Burger,VeryHigh,4055,229
+386,20,183.62,3,Missing,Southern American,white/gray,No,mesomorph,Yes,M,No,Burger,VeryHigh,6022,1005
+387,?,172.11,2,deep,Italian,black,No,mesomorph,No,M,No,Burger,VeryHigh,6938,?
+388,54,156.74,8,deep,Boston,brown,Yes,ectomorph,No,NB,Yes,Pizza,High,great,Missing
+389,21,189.98,0,**??,Cockney,black,No,mesomorph,No,M,No,Hot Dogs,8886,8886,1329
+390,31,------->?,7,deep,East Coast City Dialects,black,No,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5473,------->?
+391,27,157.72,5,deep,Southern American,brown,Yes,mesomorph,?,NB,Yes,Pizza,Medium,Good,Missing
+392,20,**??,3,high pitched,Northern Irish,white/gray,No,mesomorph,No,F,No,Burger,VeryHigh,5589,**??
+393,22,190.13,4,deep,?,**??,Yes,mesomorph,No,F,No,Burger,VeryHigh,6359,------->?
+?,45,152.47,6,high pitched,french,red,Yes,endomorph,?,F,Yes,Pizza,9404,9404,987
+395,22,193.15,3,deep,East Coast City Dialects,------->?,**??,mesomorph,No,M,No,Pizza,VeryHigh,4694,1387
+396,52,154.55,7,deep,East Coast City Dialects,blond,No,mesomorph,No,M,Yes,Pizza,Medium,Good,779
+397,40,160.07,5,deep,East Coast City Dialects,brown,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,5788,------->?
+?,46,163.7,8,high pitched,Midwestern American,brown,No,mesomorph,No,F,Yes,Burger,Medium,Good,141
+399,43,169.14,8,deep,Midwestern American,blond,Yes,**??,Yes,NB,Yes,Pizza,Medium,Good,1003
+400,56,?,------->?,**??,Midwestern American,blond,No,ectomorph,No,M,Yes,Burger,9088,9088,?
+?,52,155.38,6,deep,Southern American,blond,Yes,?,------->?,M,Yes,Burger,8705,8705,1045
+402,39,151.62,6,deep,Northern Irish,black,Yes,endomorph,Yes,NB,Yes,**??,VeryHigh,4718,485
+403,23,194.32,**??,high pitched,Midwestern American,Missing,No,?,No,M,No,Burger,Medium,Good,127
+404,22,170.6,2,high pitched,Northern Irish,black,No,endomorph,Yes,NB,No,Hot Dogs,Medium,Good,507
+405,55,160.62,Missing,high pitched,Southern American,blond,Yes,Missing,No,F,Yes,Hot Dogs,8374,8374,753
+406,29,153.46,6,deep,------->?,black,No,mesomorph,No,M,Yes,Burger,VeryHigh,4869,?
+?,20,192.21,0,high pitched,East Coast City Dialects,?,------->?,endomorph,No,NB,No,Pizza,VeryHigh,6751,------->?
+408,24,201.32,4,mid range,East Coast City Dialects,white/gray,?,mesomorph,No,M,No,?,VeryHigh,6131,685
+Missing,31,166.82,?,deep,Midwestern American,blond,Yes,mesomorph,Yes,F,Yes,Pizza,VeryHigh,6498,1185
+410,?,161.19,6,high pitched,Midwestern American,brown,Yes,ectomorph,No,M,Yes,?,VeryHigh,5416,699
+411,22,171.93,3,mid range,Italian,black,No,ectomorph,No,Missing,Missing,Hot Dogs,High,great,1105
+412,38,147.42,7,deep,Northern Irish,blond,Yes,endomorph,------->?,NB,Yes,Pizza,High,great,1269
+413,24,183.7,4,mid range,Midwestern American,white/gray,No,endomorph,Yes,NB,No,Burger,Medium,Good,Missing
+414,32,155.59,8,deep,Missing,black,Yes,mesomorph,No,M,Missing,Burger,High,great,------->?
+415,37,**??,6,mid range,------->?,**??,No,Missing,?,M,?,------->?,7764,7764,**??
+416,20,174.31,4,high pitched,East Coast City Dialects,white/gray,No,ectomorph,?,M,No,Missing,Low,Bad,249
+417,56,142.32,7,mid range,Canadian,brown,Yes,?,Yes,M,Yes,Burger,7960,7960,1267
+418,19,173.66,1,**??,Northern Irish,black,Missing,mesomorph,No,NB,No,Hot Dogs,VeryHigh,5747,247
+419,29,156.54,8,deep,**??,brown,No,mesomorph,Yes,M,Yes,**??,VeryHigh,7397,Missing
+420,54,?,8,deep,Yorkshire,?,No,ectomorph,------->?,F,Yes,**??,VeryHigh,4300,1047
+421,42,141.4,4,deep,Italian,red,Yes,ectomorph,No,F,Yes,Pizza,9315,9315,609
+422,31,162.15,?,deep,Scottish,blond,No,mesomorph,Yes,**??,Yes,Burger,High,great,?
+423,26,164.58,6,deep,Midwestern American,blond,No,mesomorph,No,M,Yes,Pizza,8660,8660,767
+424,54,157.87,4,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,F,Yes,Pizza,7872,7872,813
+425,32,152.86,8,mid range,Missing,brown,Yes,mesomorph,Missing,NB,Yes,Burger,High,great,677
+426,42,165.08,7,deep,Yorkshire,Missing,No,endomorph,Yes,------->?,Yes,Pizza,VeryHigh,6529,------->?
+427,------->?,?,7,deep,?,brown,Yes,mesomorph,Yes,Missing,Yes,Hot Dogs,High,great,309
+428,38,160.4,5,mid range,Midwestern American,blond,Yes,mesomorph,No,M,Yes,Burger,9712,9712,131
+------->?,22,179.49,3,?,Southern American,white/gray,No,**??,Yes,M,No,Burger,VeryHigh,5547,1307
+430,19,187.26,3,deep,Southern American,black,No,ectomorph,No,M,No,Burger,VeryHigh,7073,1289
+431,21,208.43,0,high pitched,Missing,blond,No,Missing,No,M,No,Burger,VeryHigh,7423,41
+432,18,207.49,0,**??,Southern American,black,No,ectomorph,**??,NB,No,Pizza,VeryHigh,4765,995
+433,19,206.72,1,deep,East Coast City Dialects,white/gray,Yes,ectomorph,Yes,M,No,Hot Dogs,High,great,719
+434,18,201.86,1,mid range,Midwestern American,black,Yes,mesomorph,Yes,M,No,Hot Dogs,High,great,925
+435,27,148.61,4,deep,East Coast City Dialects,white/gray,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,5156,**??
+436,35,162.94,**??,deep,Midwestern American,brown,No,endomorph,No,F,Yes,Burger,VeryHigh,6456,Missing
+437,------->?,204.35,0,high pitched,Southern American,white/gray,No,endomorph,No,M,No,Hot Dogs,VeryHigh,4656,Missing
+438,18,205.92,0,high pitched,Northern Irish,black,No,**??,No,F,No,Burger,VeryHigh,4978,425
+439,42,157.55,4,mid range,Italian,brown,Yes,endomorph,No,NB,Yes,**??,High,great,1199
+440,22,172.36,3,high pitched,------->?,black,No,ectomorph,Yes,M,No,?,Medium,Good,363
+441,37,161.38,6,deep,Northern Irish,Missing,Yes,ectomorph,No,M,Yes,Hot Dogs,High,great,------->?
+442,48,166.41,4,deep,Italian,brown,Yes,mesomorph,No,M,Yes,Burger,7557,7557,?
+443,36,156.19,6,deep,Northern Irish,blond,No,mesomorph,Yes,M,Yes,Burger,High,great,1443
+444,23,187.5,0,deep,french,black,No,------->?,No,M,No,Pizza,VeryHigh,4556,**??
+445,18,193.44,4,mid range,East Coast City Dialects,------->?,No,?,No,------->?,No,Burger,7981,7981,?
+446,19,191.64,3,mid range,Midwestern American,white/gray,Missing,mesomorph,No,NB,No,Apple Pie,Low,Bad,?
+447,20,179.87,2,deep,french,white/gray,Yes,endomorph,Yes,F,No,Burger,Medium,Good,405
+448,24,208.37,1,high pitched,Boston,black,No,ectomorph,Yes,NB,No,Hot Dogs,Low,Bad,Missing
+449,Missing,?,3,high pitched,Midwestern American,black,No,mesomorph,No,M,No,Hot Dogs,VeryHigh,5380,807
+450,21,178.64,0,high pitched,Midwestern American,white/gray,No,mesomorph,Yes,M,No,Hot Dogs,Low,Bad,Missing
+451,19,194.33,**??,mid range,Welsh,white/gray,No,endomorph,Yes,Missing,No,?,VeryHigh,7179,623
+452,23,208.84,3,high pitched,East Coast City Dialects,black,Yes,mesomorph,Yes,NB,No,Pizza,Low,Bad,?
+453,23,204.05,2,mid range,East Coast City Dialects,black,No,ectomorph,No,M,No,Hot Dogs,VeryHigh,4117,201
+454,44,156.34,8,deep,Yorkshire,brown,Yes,endomorph,Yes,F,Yes,Burger,High,great,393
+455,31,160.19,Missing,deep,Canadian,blond,Yes,endomorph,Yes,NB,Yes,Burger,VeryHigh,4279,945
+456,25,168.29,------->?,deep,Welsh,black,Yes,ectomorph,No,M,Yes,Burger,9327,9327,371
+457,32,155.6,8,deep,Northern Irish,brown,Yes,mesomorph,Yes,M,Yes,Burger,Medium,Good,------->?
+458,39,Missing,6,deep,Boston,blond,No,ectomorph,Yes,F,Yes,Burger,9019,9019,------->?
+459,21,189.28,3,mid range,Midwestern American,brown,No,mesomorph,No,NB,No,?,VeryHigh,4357,?
+460,51,145.56,7,deep,Scottish,blond,Yes,mesomorph,No,Missing,Yes,Apple Pie,High,great,------->?
+461,23,201.59,3,?,Midwestern American,white/gray,No,mesomorph,Yes,Missing,No,Pizza,Low,Bad,**??
+462,21,**??,3,high pitched,?,black,Yes,endomorph,No,------->?,No,Burger,VeryHigh,5013,673
+463,21,188.54,------->?,mid range,Southern American,white/gray,No,mesomorph,?,F,No,Hot Dogs,Medium,Good,101
+464,51,155.37,7,deep,Canadian,brown,Yes,ectomorph,Yes,M,Yes,Burger,Medium,Good,Missing
+465,24,------->?,4,mid range,Northern Irish,white/gray,**??,endomorph,Missing,M,No,Hot Dogs,VeryHigh,4113,------->?
+466,20,192.49,4,mid range,Midwestern American,black,No,mesomorph,No,F,No,Hot Dogs,High,great,515
+467,**??,200.77,2,high pitched,East Coast City Dialects,white/gray,No,mesomorph,Yes,F,**??,**??,Medium,Good,------->?
+468,20,181.89,2,mid range,East Coast City Dialects,brown,?,ectomorph,Yes,F,No,Pizza,9727,9727,535
+469,20,200.93,1,deep,East Coast City Dialects,black,No,mesomorph,------->?,NB,**??,Hot Dogs,VeryHigh,4426,221
+470,49,153.97,5,Missing,Midwestern American,Missing,Yes,ectomorph,Missing,F,Yes,Burger,VeryHigh,3948,545
+471,33,------->?,4,high pitched,Northern Irish,brown,Yes,------->?,Yes,M,Yes,Pizza,VeryHigh,7228,?
+472,52,169.62,8,deep,Boston,brown,Yes,mesomorph,Yes,M,Yes,Burger,VeryHigh,6966,?
+473,31,148.77,4,deep,Southern American,blond,Yes,endomorph,No,F,------->?,Burger,VeryHigh,7176,627
+474,20,179.76,1,high pitched,?,white/gray,No,mesomorph,No,F,No,Burger,Medium,Good,Missing
+475,------->?,145.71,4,deep,Italian,brown,No,ectomorph,No,M,Yes,Burger,Low,Bad,231
+476,36,165.18,6,deep,East Coast City Dialects,brown,No,**??,Yes,M,Yes,Pizza,9704,9704,------->?
+477,19,186.14,------->?,mid range,Missing,Missing,?,mesomorph,No,M,No,Pizza,9008,9008,1225
+478,46,149.83,5,deep,Southern American,blond,No,mesomorph,No,F,Yes,Apple Pie,8061,8061,Missing
+479,50,142.81,5,mid range,Italian,brown,?,mesomorph,**??,M,Yes,Pizza,High,great,**??
+480,41,152.89,4,deep,Northern Irish,blond,Yes,ectomorph,Yes,NB,Yes,**??,VeryHigh,6664,1173
+481,36,143.32,4,high pitched,East Coast City Dialects,brown,Yes,ectomorph,No,NB,Yes,Burger,High,great,?
+482,24,189.35,3,deep,french,white/gray,Yes,ectomorph,Yes,M,No,Burger,VeryHigh,4710,277
+483,33,148.65,7,?,?,blond,Yes,ectomorph,Yes,NB,Yes,Burger,Low,Bad,1487
+484,19,**??,3,high pitched,Midwestern American,black,Yes,ectomorph,Yes,Missing,No,Burger,VeryHigh,7177,------->?
+485,48,158.31,7,mid range,Midwestern American,white/gray,------->?,ectomorph,No,M,Yes,------->?,9183,9183,?
+486,53,156.32,6,------->?,East Coast City Dialects,blond,No,mesomorph,Yes,F,Yes,?,8010,8010,1167
+487,48,148.68,5,deep,East Coast City Dialects,brown,Yes,mesomorph,No,NB,Yes,Burger,Low,Bad,------->?
+488,37,165.79,6,**??,french,brown,Yes,endomorph,?,F,Yes,Missing,9685,9685,Missing
+489,?,152.57,8,deep,Cockney,brown,Yes,ectomorph,No,M,Yes,Burger,Medium,Good,1197
+490,46,153.54,8,high pitched,Southern American,red,Yes,endomorph,Yes,F,Yes,Burger,High,great,------->?
+491,18,171.22,1,------->?,Northern Irish,black,------->?,ectomorph,Yes,F,No,Burger,High,great,449
+492,27,150.44,8,deep,East Coast City Dialects,brown,Yes,endomorph,No,NB,Yes,Burger,VeryHigh,6488,Missing
+?,51,168.46,6,high pitched,Southern American,blond,Yes,ectomorph,Yes,NB,Yes,Apple Pie,VeryHigh,4729,1477
+494,20,180.84,?,high pitched,Midwestern American,black,No,endomorph,No,M,No,Pizza,8469,8469,1325
+495,22,175.35,1,high pitched,Italian,white/gray,No,ectomorph,Yes,M,No,Pizza,7931,7931,527
+496,40,?,5,high pitched,Southern American,blond,Yes,ectomorph,Missing,F,Yes,Hot Dogs,8675,8675,563
+497,36,167.4,4,deep,Welsh,brown,Yes,mesomorph,Yes,F,Yes,Burger,High,great,------->?
+498,43,167.46,4,deep,Northern Irish,blond,Yes,ectomorph,Yes,NB,Yes,Burger,High,great,Missing
+499,52,149.37,5,deep,Northern Irish,brown,Yes,mesomorph,No,**??,Yes,Apple Pie,VeryHigh,5520,417
+500,34,155.28,7,deep,Scottish,brown,Yes,ectomorph,Yes,M,Yes,Pizza,9391,9391,------->?
+501,18,171.96,**??,mid range,?,black,No,mesomorph,Yes,M,No,Hot Dogs,Medium,Good,295
+502,52,158.76,7,mid range,East Coast City Dialects,black,No,mesomorph,Yes,**??,Yes,Burger,VeryHigh,3811,759
+503,52,167.64,7,deep,Northern Irish,brown,Yes,mesomorph,No,M,Yes,Burger,Medium,Good,------->?
+504,23,190.92,2,high pitched,Southern American,black,No,?,No,NB,No,Burger,8414,8414,1009
+505,26,144.32,4,deep,Yorkshire,blond,Yes,mesomorph,No,------->?,Yes,Burger,VeryHigh,6563,------->?
+506,47,151.83,5,deep,**??,blond,**??,mesomorph,Yes,F,Yes,Burger,Low,Bad,501
+507,32,166.25,5,deep,Yorkshire,blond,No,ectomorph,No,F,Yes,**??,VeryHigh,5399,Missing
+508,24,180.93,1,high pitched,East Coast City Dialects,dyed,Yes,ectomorph,Yes,M,No,Burger,8376,8376,1465
+509,42,152.01,8,mid range,Southern American,black,Yes,mesomorph,Yes,?,Yes,Burger,Medium,Good,?
+510,40,151.48,7,Missing,Northern Irish,brown,**??,mesomorph,Yes,M,Yes,Burger,VeryHigh,6387,193
+511,------->?,**??,3,deep,Northern Irish,white/gray,Yes,mesomorph,------->?,M,No,Pizza,8165,8165,153
+512,51,140.54,4,deep,Midwestern American,blond,No,mesomorph,Yes,F,Yes,Pizza,VeryHigh,5332,?
+513,Missing,147.93,Missing,deep,Southern American,blond,Yes,mesomorph,No,NB,Yes,Pizza,High,great,953
+514,28,164.57,6,deep,Midwestern American,blond,Yes,Missing,No,------->?,?,Pizza,High,great,1205
+515,50,147.82,6,mid range,------->?,black,Yes,Missing,Yes,F,?,Hot Dogs,Low,Bad,Missing
+516,23,201.51,?,mid range,East Coast City Dialects,white/gray,No,endomorph,No,NB,No,Apple Pie,VeryHigh,6486,?
+517,18,206.38,4,deep,Yorkshire,brown,Yes,mesomorph,Yes,**??,No,Hot Dogs,VeryHigh,3966,------->?
+518,53,Missing,8,high pitched,Northern Irish,red,No,endomorph,Yes,M,Yes,Burger,VeryHigh,6903,------->?
+?,18,176.89,1,deep,Missing,white/gray,No,mesomorph,No,------->?,No,Pizza,VeryHigh,4118,------->?
+520,25,141.04,4,deep,East Coast City Dialects,blond,Yes,mesomorph,Yes,M,Yes,Burger,7761,7761,**??
+521,20,Missing,4,high pitched,Northern Irish,?,No,mesomorph,No,M,No,Burger,VeryHigh,5475,------->?
+522,32,143.18,------->?,deep,------->?,blond,Yes,ectomorph,No,NB,Yes,?,Low,Bad,615
+523,635,150.25,8,deep,Northern Irish,brown,No,ectomorph,No,M,Yes,Missing,VeryHigh,4447,?
+524,19,199.35,2,high pitched,Northern Irish,black,No,ectomorph,Yes,M,No,Hot Dogs,Low,Bad,------->?
+525,31,142.2,6,deep,Italian,brown,Yes,?,No,NB,Yes,Burger,VeryHigh,5574,Missing
+------->?,34,143.6,6,mid range,------->?,black,Yes,endomorph,No,M,Yes,Burger,8056,8056,?
+527,23,188.54,2,?,Southern American,white/gray,No,mesomorph,Yes,Missing,No,Burger,7822,7822,Missing
+528,22,205.29,3,high pitched,Midwestern American,white/gray,**??,mesomorph,No,Male,No,Apple Pie,VeryHigh,7217,------->?
+529,24,206.29,0,?,Southern American,black,No,mesomorph,Missing,M,No,Hot Dogs,VeryHigh,3829,239
+530,22,184.13,4,deep,Cockney,white/gray,Yes,ectomorph,Yes,F,No,Hot Dogs,Medium,Good,111
+531,26,151.93,8,deep,Southern American,brown,Yes,mesomorph,Yes,F,------->?,?,High,great,1275
+532,24,196.05,3,high pitched,Canadian,white/gray,Yes,ectomorph,No,F,------->?,Burger,VeryHigh,6133,411
+Missing,23,192.95,4,deep,Cockney,white/gray,No,mesomorph,No,NB,No,Pizza,VeryHigh,6412,------->?
+534,34,158.88,6,deep,Midwestern American,brown,No,**??,No,F,Yes,Missing,VeryHigh,4121,1441
+535,45,161.78,4,deep,East Coast City Dialects,white/gray,Yes,ectomorph,No,F,Yes,Burger,VeryHigh,3646,Missing
+536,18,176.25,1,high pitched,Scottish,dyed,No,endomorph,No,F,No,Burger,Medium,Good,------->?
+537,32,169.92,6,deep,Italian,blond,No,Missing,No,**??,Yes,Burger,VeryHigh,4425,833
+538,25,154.89,7,------->?,East Coast City Dialects,blond,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,4744,?
+539,Missing,208.04,3,deep,Midwestern American,black,No,ectomorph,Yes,------->?,No,Pizza,VeryHigh,7186,Missing
+540,46,143.26,6,**??,Yorkshire,blond,No,mesomorph,No,NB,Yes,Pizza,9866,9866,**??
+541,Missing,155.58,6,mid range,Canadian,?,Yes,mesomorph,No,F,Yes,Hot Dogs,VeryHigh,5385,Missing
+542,44,166.7,7,deep,Northern Irish,blond,Yes,ectomorph,No,F,Yes,Pizza,High,great,511
+543,29,145.35,8,deep,East Coast City Dialects,black,Yes,ectomorph,Yes,M,Yes,Apple Pie,VeryHigh,6801,------->?
+544,32,164.83,7,Missing,**??,brown,No,mesomorph,No,M,Yes,Burger,Low,Bad,?
+545,39,?,6,high pitched,Midwestern American,black,Yes,ectomorph,Yes,M,Yes,Pizza,Low,Bad,Missing
+546,18,197.52,0,high pitched,Northern Irish,black,No,ectomorph,No,M,No,?,VeryHigh,7359,173
+547,31,149.21,6,**??,Boston,brown,No,mesomorph,Yes,F,Yes,Burger,VeryHigh,6106,189
+548,47,154.26,6,mid range,**??,black,No,mesomorph,No,NB,Yes,Hot Dogs,8076,8076,1095
+549,54,156.79,5,deep,East Coast City Dialects,blond,Yes,ectomorph,No,NB,Yes,Burger,VeryHigh,7087,1123
+550,42,141.42,**??,high pitched,East Coast City Dialects,brown,**??,mesomorph,Yes,NB,Yes,Hot Dogs,7635,7635,------->?
+551,23,179.92,3,mid range,Southern American,blond,Missing,mesomorph,------->?,M,No,------->?,VeryHigh,4988,Missing
+552,49,145.38,6,**??,------->?,blond,Yes,Missing,Yes,NB,Yes,Pizza,Medium,Good,1051
+553,34,151.74,4,high pitched,Midwestern American,blond,Yes,Missing,Yes,F,Yes,Burger,9171,9171,?
+554,22,172.03,1,deep,Boston,white/gray,Yes,mesomorph,Missing,**??,No,**??,7621,7621,?
+555,28,147.21,7,deep,Northern Irish,blond,Yes,------->?,Yes,M,------->?,Hot Dogs,9285,9285,**??
+556,22,187.5,1,deep,Southern American,black,No,endomorph,Missing,M,No,Hot Dogs,VeryHigh,5365,765
+557,45,160.92,6,deep,East Coast City Dialects,blond,No,mesomorph,Yes,M,Yes,Apple Pie,High,great,343
+558,23,188.13,4,mid range,Midwestern American,black,No,mesomorph,No,M,No,Hot Dogs,8540,8540,59
+559,43,166.48,4,deep,Boston,brown,Yes,ectomorph,No,NB,Yes,**??,VeryHigh,4259,735
+560,30,140.54,7,deep,Southern American,blond,Yes,ectomorph,?,F,Yes,Apple Pie,Low,Bad,**??
+561,33,156.62,5,deep,East Coast City Dialects,black,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,6034,**??
+Missing,18,192.38,3,**??,Southern American,white/gray,No,mesomorph,Yes,NB,No,Burger,9531,9531,Missing
+563,24,181.73,4,high pitched,Italian,white/gray,No,mesomorph,?,M,No,Missing,VeryHigh,6807,?
+564,47,166.33,6,deep,East Coast City Dialects,blond,No,mesomorph,Yes,M,Yes,Pizza,8004,8004,349
+565,------->?,189.35,Missing,mid range,Midwestern American,------->?,Yes,ectomorph,Yes,M,Missing,Burger,VeryHigh,3785,1101
+566,21,205.67,0,------->?,Cockney,dyed,No,mesomorph,?,NB,Missing,Hot Dogs,Medium,Good,?
+567,21,177.84,1,high pitched,Yorkshire,white/gray,No,mesomorph,No,------->?,No,Hot Dogs,High,great,979
+568,18,201.2,1,high pitched,Midwestern American,black,No,mesomorph,Yes,F,No,Hot Dogs,VeryHigh,4450,489
+569,43,Missing,5,**??,Southern American,blond,No,endomorph,Missing,NB,Yes,Pizza,7616,7616,**??
+------->?,21,200.71,0,mid range,Southern American,brown,**??,Missing,No,M,No,Burger,9181,9181,**??
+571,34,143.71,------->?,deep,Northern Irish,blond,Yes,mesomorph,No,M,Yes,?,High,great,Missing
+572,42,163.53,6,deep,Welsh,blond,No,endomorph,No,F,Yes,Pizza,8612,8612,859
+Missing,19,Missing,3,high pitched,East Coast City Dialects,brown,Yes,endomorph,No,F,No,Hot Dogs,High,great,975
+574,23,177.24,4,high pitched,Northern Irish,black,No,endomorph,Yes,M,No,?,High,great,837
+575,32,141.34,4,deep,Southern American,brown,Yes,endomorph,No,NB,Yes,**??,VeryHigh,5024,**??
+576,49,147.03,7,deep,Southern American,black,Yes,endomorph,No,NB,Yes,Burger,VeryHigh,5530,Missing
+577,55,154.99,6,deep,Southern American,blond,Yes,mesomorph,Missing,M,Yes,Pizza,VeryHigh,6969,1359
+578,21,170.24,2,high pitched,Boston,white/gray,No,mesomorph,Yes,F,No,Burger,VeryHigh,7408,------->?
+**??,23,171.57,4,mid range,Northern Irish,white/gray,No,------->?,Yes,?,No,Burger,9875,9875,------->?
+580,20,205.05,Missing,mid range,Canadian,black,No,**??,**??,NB,No,Missing,VeryHigh,5051,?
+581,43,142.87,4,deep,Midwestern American,blond,**??,endomorph,Yes,M,Yes,Burger,High,great,Missing
+582,21,**??,2,high pitched,Southern American,brown,**??,ectomorph,No,F,No,Missing,Medium,Good,1437
+583,------->?,------->?,Missing,deep,Italian,brown,No,endomorph,Yes,M,No,Apple Pie,High,great,?
+584,18,178.45,4,high pitched,?,blond,No,**??,Yes,M,No,Pizza,9351,9351,**??
+585,23,208.16,0,high pitched,Northern Irish,white/gray,**??,mesomorph,No,M,No,Pizza,Low,Bad,901
+586,24,203.31,Missing,deep,Canadian,white/gray,No,mesomorph,------->?,M,No,Burger,VeryHigh,5598,1203
+587,48,154.28,------->?,deep,Northern Irish,Missing,Yes,ectomorph,------->?,NB,**??,Hot Dogs,High,great,1463
+588,24,201.57,2,high pitched,Southern American,brown,No,mesomorph,No,M,No,Hot Dogs,VeryHigh,5037,1381
+589,43,154.44,8,high pitched,Boston,brown,No,ectomorph,No,M,Yes,Burger,VeryHigh,5257,Missing
+590,21,181.37,2,mid range,Southern American,black,No,?,Yes,**??,No,Pizza,Low,Bad,337
+?,23,204.28,2,mid range,Southern American,white/gray,No,endomorph,No,NB,No,Apple Pie,VeryHigh,4777,------->?
+592,35,167.62,8,deep,?,brown,Yes,ectomorph,No,NB,Missing,Pizza,7610,7610,1241
+593,22,182.94,3,high pitched,Midwestern American,white/gray,Yes,mesomorph,Yes,M,No,------->?,Low,Bad,------->?
+**??,50,------->?,8,high pitched,Midwestern American,black,**??,mesomorph,No,NB,Yes,Hot Dogs,7918,7918,1209
+595,20,194.54,1,high pitched,Midwestern American,white/gray,No,mesomorph,No,NB,**??,Burger,Low,Bad,**??
+596,18,205.84,0,high pitched,Northern Irish,red,Missing,mesomorph,Yes,NB,No,Burger,Low,Bad,Missing
+597,24,202.87,0,high pitched,Northern Irish,black,No,ectomorph,No,------->?,No,Burger,8035,8035,**??
+598,37,?,8,high pitched,Missing,brown,Yes,ectomorph,Yes,NB,Yes,Burger,VeryHigh,3698,443
+599,22,180.89,2,high pitched,Southern American,black,No,mesomorph,Yes,M,No,Hot Dogs,7842,7842,Missing
+**??,30,159.04,6,mid range,Northern Irish,brown,No,mesomorph,Yes,M,Yes,Burger,VeryHigh,4353,893
+601,19,180.17,2,high pitched,Yorkshire,white/gray,No,ectomorph,No,F,No,Hot Dogs,High,great,Missing
+602,26,159.91,------->?,mid range,Northern Irish,blond,Yes,mesomorph,Yes,M,------->?,Burger,VeryHigh,3524,------->?
+603,------->?,------->?,------->?,Missing,Southern American,brown,No,mesomorph,Yes,NB,No,Pizza,9479,9479,1301
+604,22,------->?,1,high pitched,Boston,white/gray,No,mesomorph,Yes,NB,No,Burger,VeryHigh,7142,477
+605,27,146.01,6,mid range,Cockney,?,Yes,mesomorph,Yes,M,**??,Burger,8564,8564,581
+606,31,144.23,7,mid range,Southern American,white/gray,Yes,mesomorph,Yes,F,Yes,Missing,Low,Bad,?
+607,33,167.58,4,deep,East Coast City Dialects,blond,Yes,mesomorph,Yes,NB,Yes,Pizza,Medium,Good,Missing
+608,37,169.97,5,deep,East Coast City Dialects,black,Yes,endomorph,Yes,NB,Yes,Pizza,7861,7861,------->?
+?,24,207.67,0,mid range,Midwestern American,brown,Yes,endomorph,No,M,No,Apple Pie,Medium,Good,Missing
+610,24,203.64,0,mid range,Missing,------->?,Yes,endomorph,Yes,M,No,Hot Dogs,VeryHigh,6403,267
+611,21,174.04,2,high pitched,Southern American,white/gray,No,endomorph,Yes,------->?,No,------->?,7921,7921,Missing
+Missing,53,169.98,4,mid range,East Coast City Dialects,brown,Missing,endomorph,Yes,F,------->?,Burger,8921,8921,705
+613,34,145.14,8,------->?,Midwestern American,brown,Yes,ectomorph,Missing,M,Yes,Pizza,VeryHigh,5094,**??
+614,52,145.81,5,deep,Scottish,brown,Yes,endomorph,No,F,------->?,Burger,VeryHigh,7412,1213
+615,39,?,5,**??,Midwestern American,blond,?,mesomorph,No,F,Yes,Burger,VeryHigh,4235,**??
+616,42,140.05,5,deep,french,blond,No,mesomorph,Yes,M,Yes,------->?,9378,9378,?
+617,52,147.36,5,deep,Midwestern American,brown,Yes,mesomorph,No,F,Yes,**??,9555,9555,1049
+618,34,152.18,Missing,**??,Southern American,brown,No,ectomorph,No,F,Yes,Burger,Medium,Good,237
+619,28,144.45,8,deep,Northern Irish,blond,Yes,ectomorph,Yes,NB,Yes,Burger,9365,9365,79
+620,34,146.95,8,deep,East Coast City Dialects,red,Yes,mesomorph,Yes,Missing,Yes,Hot Dogs,High,great,?
+621,20,187.37,3,mid range,Midwestern American,white/gray,Yes,mesomorph,No,M,No,Burger,VeryHigh,7413,1363
+622,49,163.4,7,**??,Midwestern American,blond,Yes,mesomorph,Missing,M,Yes,Burger,9700,9700,757
+623,52,148.46,8,deep,Southern American,blond,Yes,mesomorph,No,F,Yes,Burger,7794,7794,?
+624,28,**??,6,deep,Scottish,red,No,ectomorph,Yes,M,Yes,Pizza,8037,8037,897
+625,43,Missing,5,deep,Southern American,blond,?,ectomorph,No,M,?,Hot Dogs,High,great,?
+626,26,154.23,8,deep,Midwestern American,blond,Yes,mesomorph,------->?,NB,Yes,Burger,VeryHigh,3979,751
+627,38,143.2,6,deep,East Coast City Dialects,white/gray,Yes,Missing,Yes,NB,Yes,Apple Pie,Low,Bad,Missing
+628,Missing,144.03,Missing,deep,Southern American,blond,Yes,mesomorph,**??,M,Yes,Pizza,VeryHigh,6880,539
+629,43,148.93,8,deep,Northern Irish,blond,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,4494,Missing
+630,20,176.13,2,deep,Southern American,black,No,ectomorph,Yes,NB,No,?,9616,9616,?
+631,22,201.93,3,high pitched,**??,white/gray,No,ectomorph,Yes,F,No,Pizza,VeryHigh,5841,849
+632,44,160.33,5,deep,------->?,blond,No,endomorph,Yes,NB,?,Pizza,Low,Bad,------->?
+633,21,**??,2,high pitched,Southern American,white/gray,No,endomorph,No,M,No,Hot Dogs,9010,9010,------->?
+634,37,159.73,8,------->?,Scottish,red,No,ectomorph,?,M,Yes,Burger,9897,9897,Missing
+635,36,167.39,4,deep,Southern American,brown,Yes,endomorph,?,M,Yes,Burger,VeryHigh,4138,------->?
+636,40,166.55,6,deep,East Coast City Dialects,brown,No,ectomorph,No,F,Yes,?,VeryHigh,6350,1011
+637,49,143.39,8,deep,Midwestern American,blond,No,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5839,463
+638,35,144.61,8,deep,Scottish,brown,No,ectomorph,No,F,Yes,Pizza,8309,8309,**??
+639,44,160.68,6,deep,Northern Irish,blond,Yes,mesomorph,Yes,F,Yes,**??,Low,Bad,------->?
+640,18,181.84,3,high pitched,**??,white/gray,No,------->?,Missing,NB,?,Pizza,VeryHigh,3806,Missing
+641,24,201.05,1,high pitched,Scottish,white/gray,Yes,ectomorph,No,F,No,Burger,High,great,1305
+642,52,161.71,6,deep,Welsh,black,No,mesomorph,No,NB,------->?,Apple Pie,7791,7791,?
+643,19,184.11,3,high pitched,------->?,white/gray,Yes,mesomorph,Yes,NB,No,Hot Dogs,8441,8441,**??
+644,31,169.42,8,high pitched,Missing,black,Yes,mesomorph,Yes,M,Yes,Burger,7554,7554,Missing
+645,23,175.76,0,deep,**??,white/gray,**??,------->?,Yes,F,No,**??,VeryHigh,5590,1091
+646,19,172.33,0,deep,Canadian,black,No,ectomorph,No,NB,No,Burger,8089,8089,585
+647,26,148.02,4,deep,french,black,Yes,mesomorph,No,M,Yes,Pizza,7928,7928,1125
+?,34,Missing,7,mid range,french,brown,Missing,Missing,Yes,F,**??,Burger,8857,8857,?
+649,20,183.88,1,mid range,Northern Irish,?,No,ectomorph,No,M,**??,Pizza,8354,8354,------->?
+650,18,202.43,2,mid range,Midwestern American,black,No,mesomorph,Yes,M,No,**??,Medium,Good,1313
+651,18,184.91,1,deep,Yorkshire,brown,------->?,ectomorph,No,M,No,Hot Dogs,High,great,1129
+652,39,158.14,6,deep,Southern American,blond,Yes,mesomorph,No,NB,Yes,Burger,9409,9409,1427
+653,21,181.41,0,high pitched,Cockney,blond,No,ectomorph,No,NB,No,Hot Dogs,VeryHigh,5069,315
+654,Missing,168.99,4,deep,Northern Irish,blond,Yes,**??,Yes,F,Yes,Burger,Low,Bad,Missing
+655,23,191.21,4,high pitched,Yorkshire,black,**??,ectomorph,No,F,No,Burger,High,great,329
+656,39,141.08,5,deep,Boston,blond,Yes,endomorph,Yes,NB,Yes,Pizza,8455,8455,?
+657,29,144.7,6,mid range,Midwestern American,blond,**??,mesomorph,No,NB,Yes,Burger,VeryHigh,6398,1135
+------->?,39,------->?,7,deep,East Coast City Dialects,brown,Missing,mesomorph,------->?,M,Yes,Burger,VeryHigh,4819,Missing
+659,19,187.27,3,deep,Midwestern American,white/gray,Missing,mesomorph,Yes,NB,No,Pizza,High,great,783
+660,20,189.97,------->?,high pitched,Northern Irish,black,No,ectomorph,No,M,No,Burger,VeryHigh,7095,877
+**??,33,151.53,8,deep,East Coast City Dialects,Missing,Yes,?,No,NB,Yes,Apple Pie,VeryHigh,6082,------->?
+662,Missing,177.54,4,high pitched,Southern American,black,Yes,ectomorph,No,------->?,No,Pizza,Medium,Good,647
+663,20,188.71,3,?,Cockney,black,?,endomorph,Yes,?,No,Hot Dogs,Medium,Good,495
+664,36,148.56,4,**??,Boston,blond,Yes,endomorph,No,M,Yes,Hot Dogs,VeryHigh,3941,47
+665,25,146.46,7,deep,Scottish,brown,**??,mesomorph,No,NB,Yes,**??,VeryHigh,3790,1407
+666,45,155.67,4,deep,Scottish,blond,No,ectomorph,------->?,M,Yes,Burger,VeryHigh,4071,503
+------->?,**??,158.33,8,deep,Northern Irish,brown,Yes,mesomorph,No,M,Yes,Burger,High,great,------->?
+668,50,164.99,7,mid range,Southern American,blond,Yes,ectomorph,Yes,?,Yes,Burger,Medium,Good,1265
+669,?,154.84,8,deep,Midwestern American,Missing,Yes,ectomorph,Yes,NB,Yes,?,High,great,------->?
+670,33,161.97,7,deep,Welsh,blond,Yes,endomorph,Yes,------->?,Yes,Burger,High,great,643
+**??,19,201.55,2,mid range,Southern American,black,?,endomorph,No,M,No,Hot Dogs,VeryHigh,3831,273
+672,20,193.77,4,mid range,french,dyed,**??,ectomorph,No,NB,No,Hot Dogs,VeryHigh,6948,Missing
+673,20,182.62,1,high pitched,Yorkshire,Missing,No,ectomorph,No,------->?,No,Hot Dogs,VeryHigh,6970,815
+674,21,**??,2,deep,East Coast City Dialects,white/gray,No,mesomorph,Yes,F,No,Hot Dogs,High,great,1031
+675,18,193.1,0,high pitched,Midwestern American,white/gray,Missing,ectomorph,Yes,M,No,Burger,VeryHigh,7054,1099
+676,45,160.53,5,deep,?,blond,Yes,mesomorph,------->?,NB,Yes,Burger,8581,8581,447
+677,32,165.48,5,deep,Northern Irish,brown,No,endomorph,Yes,F,Yes,Hot Dogs,Low,Bad,------->?
+678,19,194.59,4,high pitched,french,white/gray,No,Missing,No,NB,No,Hot Dogs,VeryHigh,5272,?
+679,38,150.52,4,deep,Northern Irish,blond,------->?,ectomorph,Yes,NB,Yes,Burger,VeryHigh,5518,67
+680,25,169.78,6,deep,Scottish,blond,Yes,endomorph,No,F,Yes,Pizza,9554,9554,------->?
+Missing,51,152.57,8,deep,Midwestern American,brown,Missing,ectomorph,Yes,NB,Yes,Hot Dogs,8394,8394,**??
+682,46,165.7,5,Missing,Yorkshire,black,No,mesomorph,Yes,M,Yes,Burger,High,great,923
+683,Missing,144.95,6,deep,East Coast City Dialects,brown,Yes,ectomorph,No,NB,Yes,Hot Dogs,VeryHigh,5935,983
+684,24,178.03,1,Missing,Midwestern American,black,------->?,mesomorph,Yes,F,No,Hot Dogs,VeryHigh,3692,Missing
+Missing,33,159.73,7,deep,------->?,white/gray,Yes,mesomorph,Yes,M,Yes,Burger,9908,9908,Missing
+686,Missing,163.98,Missing,mid range,Northern Irish,brown,Yes,mesomorph,Yes,M,Yes,Pizza,Low,Bad,319
+687,20,183.57,2,high pitched,Southern American,dyed,Yes,endomorph,No,M,No,Burger,VeryHigh,5166,------->?
+688,31,143.22,5,mid range,Midwestern American,brown,Yes,?,Yes,F,Yes,------->?,Low,Bad,------->?
+689,29,151.69,Missing,deep,East Coast City Dialects,blond,Yes,mesomorph,------->?,?,Yes,Apple Pie,VeryHigh,5754,265
+690,27,150.54,6,deep,East Coast City Dialects,blond,Yes,mesomorph,Yes,F,Yes,Burger,High,great,973
+691,48,154.69,5,mid range,Midwestern American,blond,Yes,ectomorph,Yes,M,Yes,Pizza,Medium,Good,1119
+692,31,162.58,------->?,deep,Cockney,brown,No,ectomorph,No,M,Yes,Hot Dogs,9406,9406,1341
+693,36,151.57,6,deep,East Coast City Dialects,white/gray,Missing,ectomorph,No,M,Yes,Pizza,VeryHigh,6206,**??
+694,19,180.13,0,?,Midwestern American,black,Yes,mesomorph,No,NB,No,Hot Dogs,VeryHigh,5587,?
+695,22,Missing,1,deep,Canadian,black,No,ectomorph,No,NB,No,Hot Dogs,VeryHigh,7317,------->?
+696,18,201.58,4,mid range,Midwestern American,white/gray,No,mesomorph,------->?,M,No,Burger,VeryHigh,7332,------->?
+697,19,178.88,2,deep,Northern Irish,Missing,Yes,ectomorph,Yes,M,No,Pizza,High,great,187
+698,22,204.51,4,high pitched,Midwestern American,brown,No,endomorph,No,M,No,Pizza,9349,9349,**??
+699,22,------->?,2,high pitched,Welsh,white/gray,No,endomorph,?,F,------->?,Pizza,8869,8869,1255
+700,50,140.9,8,deep,Southern American,**??,Yes,ectomorph,No,F,Yes,Pizza,VeryHigh,3620,1097
+701,56,154.59,5,deep,Southern American,black,------->?,mesomorph,No,NB,Yes,Pizza,VeryHigh,5071,**??
+702,Missing,155.56,6,high pitched,?,black,?,mesomorph,Yes,M,Yes,Burger,VeryHigh,5135,Missing
+Missing,18,208.8,3,**??,Southern American,black,No,------->?,No,F,No,Hot Dogs,8977,8977,1055
+704,24,171.76,3,high pitched,french,black,No,mesomorph,Yes,NB,No,Burger,Medium,Good,667
+705,46,159.77,5,deep,Midwestern American,white/gray,Yes,**??,No,------->?,Yes,Burger,7579,7579,?
+706,21,------->?,1,mid range,Cockney,white/gray,No,endomorph,Yes,M,No,Pizza,VeryHigh,7290,------->?
+707,45,158.62,5,deep,Southern American,blond,No,mesomorph,No,NB,Yes,Pizza,Medium,Good,1107
+Missing,19,190.71,1,high pitched,Northern Irish,**??,No,mesomorph,No,F,No,Burger,8227,8227,?
+709,30,150.13,5,deep,Midwestern American,blond,No,mesomorph,No,**??,Yes,**??,VeryHigh,7459,281
+710,45,141.83,5,?,Northern Irish,brown,Yes,mesomorph,Yes,F,?,Hot Dogs,VeryHigh,7483,737
+711,18,203.47,1,high pitched,Southern American,?,Yes,ectomorph,Yes,M,No,Hot Dogs,Low,Bad,**??
+712,42,154.26,7,deep,Scottish,brown,Yes,------->?,No,M,Yes,Pizza,9945,9945,?
+713,30,158.85,4,mid range,East Coast City Dialects,brown,Yes,mesomorph,No,M,**??,Apple Pie,VeryHigh,4100,621
+714,?,150.28,5,deep,East Coast City Dialects,brown,No,**??,Yes,F,Yes,Burger,High,great,Missing
+715,19,192.27,0,high pitched,Southern American,brown,Yes,endomorph,------->?,NB,No,Hot Dogs,8437,8437,997
+716,53,156.96,4,deep,Southern American,blond,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,3913,Missing
+Missing,23,175.86,**??,?,french,white/gray,Yes,ectomorph,No,NB,No,Hot Dogs,Medium,Good,**??
+718,21,182.19,Missing,high pitched,Midwestern American,black,No,?,No,F,No,Pizza,Low,Bad,1133
+719,19,180.63,1,mid range,Northern Irish,black,Yes,ectomorph,No,NB,?,Hot Dogs,Medium,Good,Missing
+720,46,155.82,5,mid range,Midwestern American,brown,No,mesomorph,Yes,M,Yes,Missing,8195,8195,?
+721,54,161.35,5,mid range,Southern American,brown,Yes,ectomorph,Yes,F,Yes,Pizza,High,great,**??
+722,31,147.8,6,deep,Northern Irish,black,Yes,endomorph,Missing,F,Yes,Burger,Medium,Good,------->?
+723,54,168.98,8,deep,Southern American,blond,No,Missing,No,F,Yes,Burger,8159,8159,------->?
+724,53,168.95,**??,deep,?,brown,No,ectomorph,No,NB,Yes,Apple Pie,Medium,Good,365
+725,55,147.65,?,deep,Southern American,brown,Yes,mesomorph,No,M,------->?,Burger,9416,9416,Missing
+Missing,38,144.25,8,mid range,East Coast City Dialects,white/gray,No,------->?,No,M,Yes,Burger,VeryHigh,5998,Missing
+------->?,37,157.32,------->?,deep,Southern American,?,------->?,endomorph,No,NB,Yes,Burger,VeryHigh,5465,Missing
+728,51,**??,4,mid range,Canadian,red,No,mesomorph,?,F,------->?,Missing,VeryHigh,4757,?
+729,48,Missing,6,?,french,**??,Yes,ectomorph,Yes,M,**??,Burger,9923,9923,487
+730,45,151.47,7,deep,Midwestern American,blond,Yes,ectomorph,Yes,NB,Yes,Burger,7776,7776,?
+731,21,204.88,4,high pitched,Southern American,red,Yes,ectomorph,Yes,M,No,Pizza,Medium,Good,473
+732,39,**??,8,high pitched,Missing,blond,No,mesomorph,No,M,Yes,Burger,VeryHigh,6383,869
+733,38,152.39,6,deep,Northern Irish,------->?,No,endomorph,No,F,Yes,**??,VeryHigh,5913,------->?
+734,51,166.13,7,deep,Northern Irish,white/gray,No,endomorph,No,------->?,Yes,Apple Pie,VeryHigh,5492,1061
+735,22,196.49,4,high pitched,Cockney,**??,Yes,endomorph,No,NB,No,Pizza,Low,Bad,1421
+736,41,166.42,8,deep,Canadian,blond,?,ectomorph,Yes,NB,------->?,Burger,VeryHigh,7303,523
+737,32,158.55,5,deep,Welsh,brown,No,mesomorph,No,NB,Yes,**??,VeryHigh,4591,1231
+738,41,158.5,4,deep,East Coast City Dialects,blond,Yes,endomorph,Yes,**??,Yes,Burger,Medium,Good,**??
+739,32,156.74,7,deep,Midwestern American,blond,No,ectomorph,No,F,Yes,Burger,Medium,Good,843
+740,21,171.06,2,mid range,Southern American,black,No,endomorph,Yes,NB,No,Burger,VeryHigh,5575,317
+------->?,40,142.32,5,deep,?,blond,Yes,mesomorph,No,M,Yes,Burger,Low,Bad,61
+------->?,20,201.66,2,?,Southern American,red,No,endomorph,Yes,NB,No,Burger,9753,9753,147
+743,48,165.45,5,mid range,Scottish,brown,Yes,endomorph,No,M,Yes,Burger,9066,9066,------->?
+744,28,145.22,8,mid range,------->?,white/gray,Yes,endomorph,------->?,M,Yes,Burger,VeryHigh,5870,Missing
+------->?,18,170.79,1,high pitched,Northern Irish,white/gray,No,endomorph,No,M,No,Burger,VeryHigh,4115,------->?
+746,Missing,148.01,4,deep,Northern Irish,brown,No,endomorph,Yes,M,Yes,?,Medium,Good,1247
+------->?,24,206.69,3,mid range,Midwestern American,white/gray,No,mesomorph,No,M,No,Burger,7607,7607,**??
+748,51,151.42,5,high pitched,Midwestern American,black,No,mesomorph,No,F,Yes,Burger,VeryHigh,6301,Missing
+749,35,159.49,7,deep,------->?,blond,Yes,endomorph,Yes,M,Yes,Burger,VeryHigh,5391,**??
+750,19,176.99,2,high pitched,Cockney,brown,Yes,mesomorph,Yes,F,No,Pizza,VeryHigh,4157,739
+751,54,143.5,4,deep,Northern Irish,blond,Yes,ectomorph,Yes,M,Yes,Burger,VeryHigh,7094,381
+752,51,145.18,6,deep,East Coast City Dialects,dyed,Yes,mesomorph,Yes,NB,Yes,Pizza,VeryHigh,7409,961
+753,55,169.93,4,deep,Northern Irish,brown,Yes,mesomorph,Yes,NB,Yes,**??,8220,8220,?
+754,29,162.31,**??,mid range,Welsh,brown,Yes,mesomorph,Yes,NB,Yes,Hot Dogs,VeryHigh,6124,?
+Missing,18,203.8,0,deep,Midwestern American,blond,No,endomorph,Yes,NB,No,Hot Dogs,High,great,------->?
+756,42,154.3,8,deep,Midwestern American,brown,Yes,------->?,Yes,F,Yes,Pizza,VeryHigh,3608,?
+757,34,143.56,7,deep,Northern Irish,blond,Yes,mesomorph,Yes,M,Yes,Apple Pie,Low,Bad,------->?
+758,38,?,8,deep,Northern Irish,black,No,------->?,Yes,M,Yes,Pizza,High,great,Missing
+759,25,166.37,7,mid range,East Coast City Dialects,red,Yes,ectomorph,No,NB,Yes,Burger,7826,7826,**??
+760,19,170.39,1,deep,?,white/gray,No,endomorph,Yes,NB,No,------->?,VeryHigh,5161,1153
+761,19,204.54,3,mid range,**??,white/gray,No,ectomorph,No,F,No,Pizza,Low,Bad,**??
+762,55,162.94,4,deep,Midwestern American,black,?,endomorph,Yes,M,Yes,Pizza,Low,Bad,**??
+763,24,**??,1,high pitched,Yorkshire,white/gray,Yes,**??,No,M,No,Burger,VeryHigh,6286,435
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+766,26,168.05,5,deep,East Coast City Dialects,brown,Yes,endomorph,Yes,NB,?,------->?,Medium,Good,211
+767,27,**??,7,deep,Midwestern American,blond,No,**??,No,?,------->?,Burger,VeryHigh,5143,441
+768,19,187.03,2,**??,Welsh,white/gray,No,ectomorph,Yes,NB,No,Hot Dogs,High,great,1261
+769,23,206.27,**??,high pitched,Northern Irish,white/gray,Yes,mesomorph,No,F,No,Pizza,VeryHigh,7037,23
+770,18,177.58,1,high pitched,Northern Irish,white/gray,Yes,ectomorph,Yes,M,No,Burger,Medium,Good,**??
+771,22,182.72,**??,------->?,Southern American,white/gray,No,ectomorph,Yes,NB,No,Hot Dogs,7908,7908,?
+772,40,146.59,?,mid range,Northern Irish,brown,Yes,------->?,No,F,?,Pizza,Medium,Good,499
+773,39,143.89,8,deep,Southern American,blond,No,mesomorph,Yes,M,Yes,Burger,9733,9733,1491
+774,18,175.16,**??,high pitched,Midwestern American,black,No,mesomorph,No,NB,No,**??,VeryHigh,5101,195
+775,35,169.58,5,mid range,East Coast City Dialects,brown,Yes,endomorph,No,M,Yes,Missing,High,great,------->?
+776,24,**??,1,high pitched,Missing,white/gray,**??,ectomorph,Yes,NB,No,Pizza,VeryHigh,5315,**??
+777,18,173.68,3,mid range,Northern Irish,white/gray,Yes,?,No,M,No,Burger,9940,9940,1459
+778,Missing,188.84,Missing,high pitched,Midwestern American,white/gray,No,ectomorph,Yes,F,No,Burger,Medium,Good,509
+779,55,169.42,8,deep,Scottish,brown,Yes,Missing,Yes,M,Yes,Burger,Low,Bad,Missing
+780,20,172.67,4,high pitched,Midwestern American,black,No,mesomorph,No,**??,No,Burger,8627,8627,43
+781,34,**??,4,deep,french,brown,Yes,ectomorph,Yes,M,Yes,Burger,VeryHigh,3616,323
+782,28,149.33,8,?,Cockney,red,No,mesomorph,Yes,F,Yes,Apple Pie,VeryHigh,4178,835
+------->?,33,141.57,7,high pitched,Midwestern American,blond,No,Missing,Yes,NB,------->?,Burger,VeryHigh,3808,1211
+**??,42,145.44,Missing,deep,Italian,blond,Yes,mesomorph,Yes,NB,Yes,Burger,9291,9291,1027
+785,54,162.78,7,deep,Southern American,brown,Yes,ectomorph,No,F,?,Burger,Low,Bad,145
+786,29,160.56,7,deep,Northern Irish,blond,Yes,mesomorph,No,NB,Yes,Missing,VeryHigh,6598,73
+787,30,155.75,6,deep,Northern Irish,blond,Yes,mesomorph,**??,M,Yes,Burger,VeryHigh,5052,839
+Missing,55,142.88,7,deep,Scottish,black,Yes,ectomorph,Yes,NB,Yes,Burger,VeryHigh,3718,?
+789,26,142.55,?,deep,Midwestern American,brown,Yes,ectomorph,No,NB,Yes,Burger,VeryHigh,7261,------->?
+790,54,169.06,4,**??,Yorkshire,dyed,Yes,**??,No,NB,Yes,Burger,9205,9205,------->?
+791,26,**??,4,deep,East Coast City Dialects,brown,Yes,ectomorph,No,NB,Yes,Pizza,High,great,459
+792,37,168.11,------->?,mid range,Midwestern American,blond,No,mesomorph,No,F,**??,Burger,Low,Bad,------->?
+**??,51,152.71,5,deep,Missing,brown,**??,ectomorph,Yes,------->?,Yes,Burger,VeryHigh,5631,763
+794,56,156.89,7,deep,East Coast City Dialects,brown,**??,?,Yes,M,Yes,------->?,Low,Bad,555
+795,33,141.69,7,Missing,Southern American,**??,No,mesomorph,Yes,NB,Yes,Burger,High,great,227
+796,35,159.33,7,Missing,Welsh,brown,Yes,endomorph,No,NB,Yes,Hot Dogs,High,great,1245
+797,22,170.53,3,high pitched,Southern American,black,No,mesomorph,Yes,?,No,Hot Dogs,9236,9236,321
+------->?,21,190.9,1,deep,Midwestern American,white/gray,No,mesomorph,Yes,M,No,Apple Pie,VeryHigh,7161,**??
+799,30,162.12,4,deep,Northern Irish,brown,Yes,mesomorph,No,M,Yes,Burger,Medium,Good,?
+800,48,142.02,7,deep,Southern American,brown,Yes,mesomorph,No,F,Yes,Burger,9382,9382,841
+801,33,141.34,7,deep,?,white/gray,Yes,mesomorph,No,**??,Yes,Burger,8833,8833,655
+802,26,151.09,4,deep,Midwestern American,**??,Yes,mesomorph,No,F,Yes,Missing,VeryHigh,6328,**??
+803,18,------->?,0,mid range,Midwestern American,red,------->?,?,No,NB,No,?,VeryHigh,5383,77
+804,22,185.61,1,high pitched,East Coast City Dialects,**??,No,mesomorph,No,F,No,Apple Pie,High,great,------->?
+805,19,**??,4,deep,Southern American,Missing,No,mesomorph,Yes,NB,No,Apple Pie,9125,9125,1189
+------->?,55,Missing,4,deep,**??,blond,No,mesomorph,Yes,M,Yes,Pizza,High,great,Missing
+807,35,166.68,------->?,mid range,Northern Irish,blond,Yes,mesomorph,No,NB,Yes,Pizza,VeryHigh,5239,1367
+808,53,148.64,------->?,deep,Cockney,blond,Yes,mesomorph,No,M,Yes,Burger,9217,9217,1473
+809,48,149.12,7,deep,Northern Irish,blond,No,ectomorph,Yes,M,Yes,Burger,VeryHigh,4389,**??
+810,18,194.72,2,high pitched,Cockney,brown,Yes,?,No,NB,No,Burger,Low,Bad,289
+811,47,168.26,7,deep,Boston,dyed,No,ectomorph,Yes,NB,Yes,**??,High,great,Missing
+812,24,193.96,4,high pitched,Midwestern American,Missing,Yes,mesomorph,No,NB,No,Apple Pie,9309,9309,257
+813,41,------->?,?,deep,Southern American,brown,No,mesomorph,No,NB,Yes,Apple Pie,9681,9681,?
+814,19,178.67,4,mid range,**??,blond,Yes,endomorph,Yes,F,No,Hot Dogs,9643,9643,Missing
+815,24,194.87,2,mid range,Northern Irish,blond,Yes,Missing,?,NB,No,Hot Dogs,VeryHigh,6968,245
+816,34,162.07,8,high pitched,East Coast City Dialects,blond,No,ectomorph,Yas,F,Yes,Pizza,Medium,Good,Missing
+817,22,192.91,0,mid range,Southern American,black,Yes,endomorph,Yes,M,No,Burger,VeryHigh,7330,993
+818,29,152.23,4,deep,Boston,blond,?,Missing,No,F,Yes,Hot Dogs,High,great,------->?
+819,30,148.7,6,deep,East Coast City Dialects,blond,Yes,ectomorph,No,NB,Yes,Burger,7602,7602,1163
+820,23,207.47,2,high pitched,East Coast City Dialects,white/gray,Missing,ectomorph,No,NB,------->?,Burger,VeryHigh,6238,?
+821,20,186.1,Missing,mid range,Midwestern American,black,Yes,ectomorph,No,M,No,Burger,9495,9495,513
+822,19,181.24,0,high pitched,Midwestern American,black,No,ectomorph,Yes,**??,No,Pizza,Low,Bad,?
+823,40,146.67,6,Missing,East Coast City Dialects,blond,?,ectomorph,Missing,M,Yes,Pizza,Medium,Good,**??
+824,20,200.18,0,deep,East Coast City Dialects,white/gray,No,ectomorph,No,M,No,?,8047,8047,**??
+825,35,167.48,5,mid range,Boston,blond,Yes,ectomorph,No,F,Yes,Burger,Medium,Good,?
+826,55,166.59,4,deep,Missing,Missing,No,mesomorph,No,F,**??,Burger,High,great,**??
+827,20,187.25,2,mid range,East Coast City Dialects,white/gray,Yes,mesomorph,Yes,?,No,Apple Pie,Medium,Good,91
+828,51,146,4,mid range,Northern Irish,brown,Yes,Missing,Yes,NB,Yes,Burger,High,great,?
+829,------->?,209.16,3,deep,Yorkshire,white/gray,No,ectomorph,------->?,M,No,Burger,High,great,Missing
+830,49,140.31,4,deep,Midwestern American,brown,No,mesomorph,Missing,NB,------->?,Pizza,Medium,Good,375
+Missing,24,203,4,mid range,Midwestern American,black,Yes,mesomorph,Yes,NB,No,Hot Dogs,Low,Bad,------->?
+832,?,181.21,1,high pitched,Northern Irish,black,Yes,mesomorph,Yes,F,No,Burger,9101,9101,1423
+833,------->?,156.91,6,deep,Southern American,blond,Yes,?,Yes,M,Yes,Burger,VeryHigh,4460,601
+834,**??,161.2,7,deep,East Coast City Dialects,black,No,Missing,Yes,F,Yes,Pizza,8802,8802,1481
+835,47,140.52,6,mid range,Southern American,blond,Yes,ectomorph,No,NB,Missing,Burger,7968,7968,825
+836,35,?,6,deep,Southern American,blond,No,mesomorph,No,M,Yes,Apple Pie,VeryHigh,4324,707
+837,20,195.38,1,mid range,Canadian,black,No,mesomorph,Yes,------->?,No,?,VeryHigh,5903,**??
+838,18,207.14,3,mid range,East Coast City Dialects,black,Missing,ectomorph,Yes,M,No,------->?,VeryHigh,6324,1335
+Missing,23,197.37,2,mid range,Midwestern American,brown,Yes,mesomorph,Yes,M,No,Hot Dogs,VeryHigh,6580,**??
+840,**??,194.11,3,deep,Southern American,red,Missing,ectomorph,No,Missing,No,Hot Dogs,8329,8329,1467
+841,53,140.65,4,deep,East Coast City Dialects,blond,Yes,ectomorph,No,NB,Yes,Burger,VeryHigh,4658,**??
+842,18,208.89,2,high pitched,Northern Irish,red,Yes,mesomorph,Yes,NB,No,Apple Pie,Medium,Good,1273
+843,18,173.81,2,high pitched,Southern American,white/gray,Yes,mesomorph,**??,M,No,Burger,VeryHigh,6390,861
+844,21,175.98,0,mid range,french,black,No,ectomorph,No,F,No,Burger,VeryHigh,5262,1221
+845,40,147.63,8,deep,------->?,blond,Yes,mesomorph,No,F,Yes,Burger,VeryHigh,6919,?
+?,38,148.87,8,high pitched,Midwestern American,brown,Yes,mesomorph,No,------->?,Yes,Burger,Medium,Good,------->?
+847,49,142.06,7,mid range,Canadian,blond,No,mesomorph,Yes,NB,Yes,Pizza,7924,7924,693
+848,20,170.37,4,**??,East Coast City Dialects,brown,No,mesomorph,**??,NB,No,Burger,High,great,1355
+849,35,144.96,5,mid range,Midwestern American,brown,Yes,mesomorph,Yes,NB,Yes,Pizza,Low,Bad,899
+850,Missing,Missing,?,high pitched,Scottish,white/gray,No,ectomorph,No,NB,No,Burger,Low,Bad,1451
+851,35,144.68,8,mid range,Southern American,brown,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,4413,367
+852,24,184.95,2,mid range,East Coast City Dialects,brown,No,endomorph,No,M,Missing,Pizza,8279,8279,921
+853,39,154.68,5,mid range,East Coast City Dialects,brown,Yes,mesomorph,No,F,Yes,Burger,8761,8761,Missing
+854,31,146.13,8,deep,East Coast City Dialects,black,Yes,ectomorph,**??,NB,Yes,Pizza,VeryHigh,5706,87
+855,32,150.44,6,deep,Canadian,blond,Yes,ectomorph,Yes,M,Yes,Hot Dogs,High,great,Missing
+856,18,185.12,2,deep,East Coast City Dialects,black,Yes,mesomorph,Yes,M,No,Hot Dogs,VeryHigh,7064,Missing
+857,33,162.12,Missing,deep,Midwestern American,black,------->?,mesomorph,No,M,Yes,Pizza,7799,7799,?
+858,42,152.59,8,deep,Southern American,white/gray,Yes,?,No,F,Yes,Missing,High,great,1029
+Missing,27,160.65,------->?,deep,**??,brown,No,mesomorph,No,F,Yes,Pizza,Low,Bad,?
+860,29,146.23,5,deep,Welsh,brown,Yes,ectomorph,No,M,Yes,Apple Pie,VeryHigh,4792,?
+861,19,193.93,0,mid range,Midwestern American,black,Yes,mesomorph,Yes,F,?,Burger,VeryHigh,7350,?
+862,52,158.62,7,?,Southern American,blond,Yes,ectomorph,No,F,Yes,Burger,VeryHigh,3607,637
+863,40,146.59,4,Missing,Northern Irish,?,Yes,**??,Yes,M,Yes,Burger,VeryHigh,5912,1195
+864,39,160.78,4,deep,Canadian,Missing,No,mesomorph,Yes,M,Yes,Apple Pie,Medium,Good,?
+865,31,147.7,4,deep,Midwestern American,blond,No,Missing,No,NB,Yes,Burger,VeryHigh,3841,1253
+866,22,177.63,------->?,mid range,Southern American,white/gray,Yes,endomorph,Yes,M,No,Apple Pie,VeryHigh,7111,?
+Missing,------->?,150.85,8,deep,french,blond,Yes,------->?,No,M,Yes,------->?,7998,7998,**??
+868,23,190.58,1,mid range,Northern Irish,red,Yes,ectomorph,Yes,M,------->?,Burger,VeryHigh,4899,139
+869,56,157.43,8,deep,Yorkshire,blond,?,mesomorph,No,NB,Yes,Burger,Medium,Good,Missing
+870,48,167.92,4,high pitched,Southern American,brown,?,endomorph,No,NB,Yes,Burger,High,great,1067
+Missing,35,148.1,4,deep,Cockney,blond,Yes,endomorph,Yes,F,Yes,Burger,VeryHigh,4147,?
+872,24,196.89,1,mid range,Northern Irish,white/gray,No,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,7282,1283
+873,22,192,2,mid range,Italian,dyed,Yes,ectomorph,**??,M,No,Hot Dogs,VeryHigh,6458,**??
+874,23,186.41,2,high pitched,East Coast City Dialects,white/gray,No,ectomorph,Yes,F,No,Burger,VeryHigh,5010,1469
+875,32,157.2,5,deep,Missing,black,Yes,mesomorph,Yes,M,Yes,Hot Dogs,VeryHigh,7202,151
+876,25,154.29,7,deep,Southern American,brown,Yes,ectomorph,Yes,F,Yes,Burger,VeryHigh,3814,Missing
+877,22,------->?,1,high pitched,East Coast City Dialects,?,Yes,mesomorph,Yes,F,No,Hot Dogs,8778,8778,Missing
+878,52,?,5,deep,Northern Irish,black,Yes,ectomorph,No,M,Yes,Pizza,8488,8488,**??
+879,53,155.09,8,**??,Northern Irish,white/gray,Yes,endomorph,Yes,M,Yes,Missing,VeryHigh,4626,1457
+880,19,188.39,2,mid range,Canadian,black,No,ectomorph,Yes,M,?,Apple Pie,Medium,Good,63
+881,24,183.8,2,mid range,East Coast City Dialects,white/gray,**??,mesomorph,No,M,No,Burger,Low,Bad,1145
+?,47,154.36,6,Missing,Midwestern American,brown,No,mesomorph,Yes,?,Yes,Burger,High,great,1007
+883,33,165.92,6,mid range,Southern American,blond,No,**??,Yes,F,Yes,Burger,Low,Bad,775
+884,**??,195.28,3,mid range,------->?,?,No,endomorph,No,M,No,Burger,Medium,Good,Missing
+885,47,154.15,7,------->?,Midwestern American,black,Yes,mesomorph,Yes,M,Yes,Burger,VeryHigh,4668,**??
+886,**??,183.51,4,high pitched,Cockney,white/gray,No,ectomorph,Yes,M,No,?,9300,9300,333
+887,24,182.63,4,mid range,Scottish,white/gray,Yes,------->?,No,NB,No,Hot Dogs,High,great,967
+888,24,184.66,1,mid range,Northern Irish,black,Yes,ectomorph,No,M,No,Pizza,9656,9656,**??
+889,47,161.88,7,deep,Boston,brown,?,ectomorph,Yes,F,------->?,?,VeryHigh,6331,**??
+Missing,53,166.85,8,deep,Northern Irish,brown,**??,mesomorph,Yes,F,Yes,Apple Pie,8774,8774,------->?
+891,38,152.02,8,deep,------->?,blond,Yes,mesomorph,Yes,Missing,Yes,Pizza,8145,8145,?
+892,41,157.2,5,deep,Midwestern American,blond,Yes,mesomorph,No,F,Yes,Burger,High,great,?
+893,35,164.84,6,deep,East Coast City Dialects,blond,No,mesomorph,Yes,?,Yes,Burger,High,great,1461
+894,21,190.78,3,mid range,Southern American,white/gray,Yes,mesomorph,Yes,F,No,Hot Dogs,High,great,1395
+895,21,201.35,0,high pitched,East Coast City Dialects,white/gray,No,mesomorph,Yes,M,No,Burger,Medium,Good,1323
+896,32,149.08,5,?,Southern American,brown,Yes,mesomorph,Yes,M,Yes,Burger,9458,9458,------->?
+897,21,204.07,1,mid range,Southern American,white/gray,No,endomorph,No,NB,No,Pizza,8554,8554,413
+898,46,150.97,6,deep,Northern Irish,**??,Yes,**??,No,------->?,Yes,Burger,8536,8536,?
+899,20,186.77,4,mid range,East Coast City Dialects,red,No,ectomorph,Yes,F,No,Hot Dogs,High,great,233
+900,30,142.83,6,deep,Midwestern American,brown,No,mesomorph,No,M,Yes,Burger,Medium,Good,Missing
+901,38,Missing,6,Missing,Missing,blond,?,mesomorph,No,M,Yes,Burger,VeryHigh,6481,?
+902,45,156.13,5,deep,Southern American,blond,Missing,ectomorph,Yes,F,Yes,Burger,Low,Bad,?
+?,55,161.81,6,mid range,Southern American,blond,Yes,mesomorph,Missing,M,Yes,Pizza,VeryHigh,5527,1177
+904,42,166.71,8,------->?,Midwestern American,blond,Yes,endomorph,No,M,?,------->?,Low,Bad,Missing
+905,27,145.91,**??,mid range,East Coast City Dialects,white/gray,Yes,ectomorph,Yes,M,Yes,Pizza,VeryHigh,3584,?
+906,48,165.74,4,mid range,East Coast City Dialects,blond,Yes,endomorph,Yes,M,?,**??,VeryHigh,5029,Missing
+907,44,158.83,6,deep,Missing,blond,Yes,endomorph,?,M,Yes,Burger,VeryHigh,7254,175
+908,31,161.65,8,deep,Southern American,brown,Yes,ectomorph,No,F,Yes,Hot Dogs,8588,8588,Missing
+909,23,199.15,1,high pitched,Southern American,white/gray,Yes,ectomorph,Yes,M,No,Pizza,9035,9035,?
+910,19,205.96,3,high pitched,East Coast City Dialects,white/gray,No,------->?,No,M,No,Burger,VeryHigh,6868,------->?
+911,------->?,168.86,5,high pitched,Midwestern American,?,Yes,mesomorph,Yes,F,Yes,Pizza,8777,8777,809
+912,26,**??,7,mid range,Yorkshire,white/gray,Yes,endomorph,**??,Missing,Yes,Burger,VeryHigh,5663,1143
+913,55,165.61,7,deep,Yorkshire,brown,?,ectomorph,No,F,Yes,?,High,great,**??
+914,30,166.99,4,deep,Canadian,Missing,Yes,ectomorph,Yes,M,Yes,Burger,High,great,------->?
+915,18,208.37,1,deep,Southern American,black,No,ectomorph,Yes,NB,No,Pizza,9345,9345,133
+916,19,201.95,4,deep,Scottish,Missing,Yes,endomorph,Yes,M,No,Hot Dogs,Medium,Good,1139
+917,20,195.67,0,Missing,Southern American,black,------->?,ectomorph,No,M,No,------->?,VeryHigh,7321,213
+918,21,184.68,4,mid range,Yorkshire,white/gray,No,mesomorph,No,F,No,Burger,9278,9278,?
+919,40,160.92,7,deep,Midwestern American,blond,No,ectomorph,No,M,Yes,**??,Low,Bad,?
+920,39,148.79,5,mid range,Midwestern American,brown,No,mesomorph,Yes,M,Yes,Burger,VeryHigh,4167,275
+921,19,188.66,4,mid range,**??,white/gray,Missing,ectomorph,Yes,M,No,Burger,9653,9653,?
+922,38,162.61,5,mid range,Midwestern American,blond,Yes,endomorph,Yes,F,Yes,?,Low,Bad,1141
+923,43,160.52,8,deep,Boston,brown,Yes,mesomorph,No,M,Yes,Burger,9331,9331,715
+?,21,173.55,4,mid range,East Coast City Dialects,black,No,ectomorph,Yes,M,No,Burger,VeryHigh,5284,Missing
+925,48,158.43,6,deep,Midwestern American,blond,No,mesomorph,Yes,F,Yes,Burger,High,great,1499
+?,25,148.67,5,deep,Cockney,brown,No,endomorph,?,NB,Yes,Burger,9835,9835,?
+927,29,152.73,4,mid range,Southern American,blond,Yes,mesomorph,------->?,M,Yes,Hot Dogs,VeryHigh,4708,83
+928,26,162.82,5,------->?,Northern Irish,------->?,Yes,ectomorph,**??,NB,**??,Burger,VeryHigh,5601,709
+929,42,147.48,?,mid range,Northern Irish,brown,Missing,**??,No,M,Yes,Pizza,7979,7979,625
+930,22,185.56,0,high pitched,Northern Irish,black,No,ectomorph,No,M,No,Hot Dogs,High,great,Missing
+931,24,180.35,0,**??,Cockney,black,No,mesomorph,No,M,No,Hot Dogs,VeryHigh,6470,Missing
+932,55,143.61,7,deep,Northern Irish,brown,No,ectomorph,No,M,Yes,Pizza,High,great,969
+933,23,204.88,2,mid range,Southern American,black,No,mesomorph,Yes,NB,No,Hot Dogs,9319,9319,**??
+934,22,181.95,3,mid range,Northern Irish,black,No,mesomorph,No,M,No,Burger,Low,Bad,**??
+935,50,158.42,8,deep,Welsh,?,**??,ectomorph,Yes,M,Yes,Burger,VeryHigh,6521,801
+Missing,48,140.82,4,deep,East Coast City Dialects,**??,Yes,endomorph,Yes,Missing,**??,Hot Dogs,Low,Bad,103
+937,40,164.19,8,**??,Italian,brown,No,endomorph,Yes,F,Yes,Burger,8049,8049,959
+938,22,207.59,2,high pitched,Canadian,white/gray,No,ectomorph,Yes,M,Missing,Burger,VeryHigh,5265,1339
+939,27,168.27,4,mid range,Welsh,------->?,**??,ectomorph,No,M,Yes,Hot Dogs,VeryHigh,5172,**??
+940,46,**??,8,deep,Midwestern American,black,No,mesomorph,No,F,Yes,Burger,9507,9507,155
+941,28,Missing,6,deep,East Coast City Dialects,blond,No,mesomorph,?,Missing,Yes,Hot Dogs,VeryHigh,3552,1243
+942,?,158.53,8,deep,**??,blond,Yes,mesomorph,Yes,M,Yes,Apple Pie,VeryHigh,4821,1015
+943,49,166.88,------->?,mid range,Scottish,brown,Yes,?,Yes,M,Yes,Burger,9173,9173,1111
+944,42,151.39,5,deep,Midwestern American,brown,No,ectomorph,Yes,?,Yes,Hot Dogs,VeryHigh,4116,551
+945,55,167.21,4,high pitched,Southern American,blond,Yes,endomorph,Yes,NB,Yes,Burger,VeryHigh,6011,Missing
+946,24,194.73,2,deep,East Coast City Dialects,white/gray,Yes,ectomorph,No,NB,No,Apple Pie,VeryHigh,7257,**??
+947,18,195.2,2,mid range,Midwestern American,black,No,ectomorph,Yes,M,No,Apple Pie,High,great,**??
+948,48,142.81,6,deep,Midwestern American,blond,Yes,mesomorph,Yes,F,Yes,Hot Dogs,9750,9750,607
+949,49,------->?,4,deep,**??,blond,Yes,mesomorph,Yes,M,------->?,Burger,VeryHigh,5038,1219
+950,21,?,4,high pitched,Welsh,black,No,ectomorph,No,M,No,Burger,High,great,521
+951,20,------->?,1,high pitched,Southern American,white/gray,No,mesomorph,No,F,No,Burger,7804,7804,**??
+952,46,162.53,8,deep,Northern Irish,brown,Yes,mesomorph,Yes,M,Yes,Burger,9393,9393,1109
+953,34,------->?,8,high pitched,------->?,brown,Yes,endomorph,Yes,F,?,Burger,Low,Bad,755
+954,27,145.76,6,deep,Southern American,blond,Yes,endomorph,No,Missing,Yes,Burger,VeryHigh,5271,?
+955,19,178.48,2,high pitched,Southern American,dyed,No,mesomorph,No,M,?,Burger,Low,Bad,433
+956,37,164.82,4,deep,Cockney,blond,No,endomorph,Yes,F,Yes,Burger,VeryHigh,6241,Missing
+957,56,**??,5,mid range,Northern Irish,------->?,Yes,ectomorph,Yes,M,Yes,Burger,VeryHigh,7197,Missing
+958,38,148.08,5,high pitched,Midwestern American,blond,No,mesomorph,No,F,Yes,Burger,High,great,Missing
+959,32,152.49,8,deep,Northern Irish,blond,Yes,mesomorph,No,NB,Yes,Hot Dogs,9143,9143,1103
+960,20,------->?,2,deep,Southern American,black,No,ectomorph,Yes,M,------->?,Hot Dogs,VeryHigh,6890,?
+------->?,19,188.51,3,high pitched,East Coast City Dialects,white/gray,No,ectomorph,No,M,No,Hot Dogs,8781,8781,------->?
+962,45,153.57,4,mid range,Northern Irish,**??,Yes,endomorph,Yes,M,Yes,Pizza,Low,Bad,------->?
+**??,21,189.97,3,high pitched,**??,black,No,mesomorph,No,NB,No,Hot Dogs,VeryHigh,6906,Missing
+964,25,169.06,5,deep,East Coast City Dialects,------->?,Yes,mesomorph,Yes,F,Yes,Pizza,8829,8829,------->?
+?,52,156.36,4,mid range,Southern American,black,No,Missing,Yes,F,?,Burger,VeryHigh,5990,------->?
+Missing,20,207.46,4,mid range,Northern Irish,brown,No,ectomorph,No,F,No,Pizza,Low,Bad,865
+967,50,166.54,**??,deep,Southern American,blond,Yes,ectomorph,No,F,Yes,Hot Dogs,Low,Bad,161
+968,27,143.46,7,deep,Southern American,blond,Missing,Missing,No,M,Yes,Burger,VeryHigh,5012,------->?
+?,Missing,173.31,4,high pitched,Midwestern American,?,?,ectomorph,Yes,**??,No,Pizza,9259,9259,?
+970,44,141.71,8,mid range,?,brown,Yes,ectomorph,------->?,NB,Yes,Apple Pie,8319,8319,Missing
+971,18,------->?,0,mid range,Welsh,white/gray,------->?,ectomorph,Yes,M,No,Burger,High,great,1079
+972,39,153.43,7,deep,Welsh,blond,Yes,ectomorph,Yes,NB,Yes,Hot Dogs,High,great,1447
+973,36,151.44,4,deep,Midwestern American,blond,Yes,mesomorph,Yes,M,Yes,Burger,VeryHigh,3626,Missing
+974,**??,147.12,6,deep,Scottish,blond,Yes,ectomorph,No,NB,Yes,Burger,8700,8700,241
+975,24,202.02,1,high pitched,Southern American,?,No,mesomorph,No,F,No,Burger,7573,7573,1333
+976,20,197.79,4,high pitched,Scottish,white/gray,Missing,endomorph,No,NB,No,Pizza,Low,Bad,Missing
+Missing,20,170.76,1,mid range,Southern American,black,Yes,endomorph,No,M,Missing,Hot Dogs,Low,Bad,307
+978,Missing,182.82,3,high pitched,Italian,black,No,endomorph,No,M,No,Hot Dogs,Medium,Good,**??
+979,54,141.09,5,deep,East Coast City Dialects,red,**??,mesomorph,No,F,Yes,Apple Pie,Medium,Good,**??
+980,42,164.46,6,------->?,Northern Irish,blond,Missing,ectomorph,No,M,**??,Apple Pie,8918,8918,1017
+981,31,163.04,7,deep,Cockney,brown,Yes,ectomorph,No,F,Yes,?,8162,8162,**??
+982,32,140.44,5,deep,East Coast City Dialects,------->?,No,mesomorph,Yes,F,Yes,Burger,VeryHigh,4667,1033
+983,27,156.75,Missing,deep,Northern Irish,blond,Yes,ectomorph,Yes,F,Yes,Pizza,VeryHigh,6746,867
+984,50,165.98,6,deep,Southern American,blond,Yes,ectomorph,Yes,NB,Yes,Burger,Medium,Good,451
+985,22,198.27,1,------->?,Midwestern American,white/gray,No,mesomorph,Yes,F,No,Apple Pie,VeryHigh,3767,**??
+986,33,140.44,4,------->?,Midwestern American,blond,No,ectomorph,Yes,M,Yes,Missing,High,great,Missing
+987,42,160.27,8,mid range,East Coast City Dialects,blond,No,endomorph,Yes,M,Yes,Burger,VeryHigh,5800,**??
+988,48,163.96,8,mid range,Northern Irish,blond,Yes,ectomorph,No,F,Yes,Pizza,High,great,31
+989,35,143.12,7,deep,Boston,blond,Yes,**??,No,M,Yes,Pizza,9777,9777,1021
+990,23,------->?,3,high pitched,Northern Irish,blond,No,ectomorph,Yes,M,No,Hot Dogs,High,great,?
+991,49,158.15,4,deep,Southern American,blond,Missing,mesomorph,No,M,Yes,Burger,Medium,Good,Missing
+992,49,141.2,4,deep,Midwestern American,blond,Yes,mesomorph,Yes,M,Yes,Burger,High,great,?
+993,33,156.49,6,mid range,Cockney,blond,Yes,ectomorph,No,F,Yes,Apple Pie,High,great,------->?
+------->?,40,156.9,7,mid range,Southern American,black,Yes,mesomorph,No,M,Yes,Apple Pie,Medium,Good,1337
+995,55,161.99,5,**??,Scottish,brown,Yes,ectomorph,No,?,Yes,Pizza,VeryHigh,6377,741
+996,22,191.98,3,mid range,Northern Irish,black,Yes,ectomorph,Yes,M,No,Burger,Low,Bad,Missing
+997,52,155.45,4,deep,East Coast City Dialects,brown,No,mesomorph,Yes,M,Yes,------->?,9552,9552,5
+Missing,30,157.43,7,mid range,Italian,brown,Yes,endomorph,No,NB,Yes,Pizza,Low,Bad,1277
+999,18,173.54,3,high pitched,Midwestern American,white/gray,No,ectomorph,Yes,M,No,Burger,VeryHigh,3752,Missing
+1000,47,------->?,7,deep,East Coast City Dialects,blond,------->?,Missing,No,Missing,Yes,Apple Pie,Low,Bad,**??
+1001,21,173.33,4,high pitched,Missing,brown,------->?,ectomorph,Yes,Missing,No,**??,9576,9576,------->?
+1002,55,168.21,**??,high pitched,Midwestern American,brown,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,4570,?
+1003,28,160.4,7,Missing,Midwestern American,brown,Yes,mesomorph,No,F,Yes,Burger,VeryHigh,4401,1373
+1004,34,151.17,7,mid range,french,brown,Yes,ectomorph,Yes,**??,Yes,Burger,High,great,913
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+------->?,------->?,165.1,?,high pitched,**??,brown,Yes,mesomorph,Yes,M,Yes,Burger,9025,9025,Missing
+1009,44,141.84,7,deep,East Coast City Dialects,**??,Yes,ectomorph,No,F,Yes,Burger,VeryHigh,6899,469
+1010,55,153.34,8,deep,Midwestern American,blond,Yes,ectomorph,No,F,Yes,Burger,High,great,Missing
+1011,53,163.22,?,deep,french,white/gray,No,mesomorph,No,NB,Yes,Missing,VeryHigh,6687,105
+1012,42,150.18,6,deep,East Coast City Dialects,blond,Yes,mesomorph,No,NB,?,Pizza,8556,8556,1233
+1013,24,199.28,3,high pitched,Midwestern American,red,No,endomorph,No,M,No,Burger,VeryHigh,4905,595
+**??,23,175.9,4,high pitched,?,white/gray,No,ectomorph,Yes,M,No,Hot Dogs,9692,9692,169
+1015,22,175.74,0,mid range,Northern Irish,white/gray,No,mesomorph,------->?,F,No,Hot Dogs,Low,Bad,Missing
+1016,35,149.18,**??,mid range,Southern American,Missing,Yes,mesomorph,Missing,F,Yes,Burger,VeryHigh,3945,1495
+1017,20,------->?,0,mid range,Canadian,dyed,No,ectomorph,**??,NB,No,Hot Dogs,VeryHigh,5638,------->?
+1018,20,208.68,1,mid range,East Coast City Dialects,blond,No,ectomorph,?,M,No,Hot Dogs,Medium,Good,1383
+1019,52,162.69,4,deep,Boston,Missing,Yes,endomorph,No,M,Yes,Burger,9707,9707,203
+1020,34,141.02,5,deep,Southern American,brown,Missing,endomorph,No,M,Yes,Apple Pie,VeryHigh,7184,15
+,,,,,,,,,,,,,,,
+?,20,192.8,4,mid range,french,Missing,No,ectomorph,No,NB,No,Hot Dogs,Medium,Good,717
+,,,,,,,,,,,,,,,
+1024,20,191.68,2,high pitched,Midwestern American,white/gray,Yes,endomorph,No,M,No,Burger,8045,8045,------->?
+1025,32,150.84,6,deep,Welsh,Missing,Yes,endomorph,No,F,Yes,Burger,9043,9043,**??
+1026,55,154.32,6,deep,Midwestern American,blond,Yes,mesomorph,Yes,F,Yes,Missing,High,great,?
+1027,50,167.77,7,deep,Missing,brown,Yes,mesomorph,No,M,Yes,Burger,Low,Bad,?
+1028,23,199.22,3,mid range,Southern American,white/gray,No,mesomorph,Yes,M,?,Hot Dogs,8956,8956,?
+1029,47,156.76,6,deep,Southern American,------->?,Yes,ectomorph,No,M,Yes,?,VeryHigh,5269,887
+1030,31,157.25,7,deep,Boston,brown,Yes,ectomorph,No,NB,Yes,Pizza,7592,7592,1405
+1031,53,163.39,6,deep,Cockney,brown,No,ectomorph,Yes,M,Yes,Burger,VeryHigh,6247,------->?
+1032,20,196.79,1,Missing,Welsh,black,No,mesomorph,No,M,No,Apple Pie,High,great,**??
+1033,45,144.99,7,mid range,**??,blond,Yes,mesomorph,Yes,M,Yes,Burger,High,great,1415
+1034,22,183.56,3,high pitched,Southern American,white/gray,No,mesomorph,?,NB,No,Hot Dogs,9237,9237,1293
+------->?,45,142.72,8,deep,Midwestern American,blond,No,mesomorph,**??,NB,Yes,Pizza,Medium,Good,1207
+1036,24,184.77,4,high pitched,french,white/gray,No,ectomorph,No,F,No,Pizza,VeryHigh,5216,283
+1037,28,150.65,**??,deep,Midwestern American,blond,No,mesomorph,No,F,Yes,Burger,8403,8403,215
+1038,27,140.66,5,deep,East Coast City Dialects,?,No,endomorph,Yes,M,Yes,Pizza,VeryHigh,4989,?
+1039,35,142.26,6,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,F,Yes,Apple Pie,VeryHigh,5661,------->?
+1040,19,200.63,4,high pitched,Italian,white/gray,No,ectomorph,Missing,M,No,Burger,7555,7555,733
+1041,Missing,162.76,5,deep,Midwestern American,**??,No,endomorph,Yes,M,Yes,Pizza,8135,8135,?
+1042,52,152.37,6,deep,Boston,white/gray,Yes,mesomorph,Yes,NB,Yes,Missing,Low,Bad,1449
+1043,24,206.38,1,high pitched,Southern American,black,No,Missing,Missing,M,Missing,Burger,8753,8753,177
+1044,30,158.41,5,mid range,Italian,blond,Yes,mesomorph,No,M,Yes,Burger,8081,8081,1013
+1045,23,194.78,1,mid range,Yorkshire,black,Yes,ectomorph,No,F,No,Hot Dogs,VeryHigh,5801,------->?
+1046,24,198.71,2,high pitched,Cockney,white/gray,Yes,ectomorph,No,M,No,Hot Dogs,Medium,Good,903
+1047,52,160.29,4,deep,Midwestern American,brown,No,ectomorph,Yes,M,Yes,Pizza,Medium,Good,Missing
+?,------->?,150.2,8,mid range,Midwestern American,blond,Yes,ectomorph,Yes,NB,Yes,Pizza,8810,8810,?
+1049,52,162.88,8,deep,Scottish,**??,Yes,ectomorph,Yes,M,Yes,Pizza,High,great,Missing
+1050,39,155.85,4,mid range,Welsh,white/gray,Yes,ectomorph,Yes,M,Yes,Pizza,High,great,941
+1051,19,180.48,3,deep,Northern Irish,black,Missing,?,No,Missing,No,Missing,VeryHigh,7354,1115
+1052,55,141.1,4,deep,Southern American,brown,No,ectomorph,Yes,F,Yes,Burger,9587,9587,**??
+1053,52,156.11,6,deep,Northern Irish,blond,Missing,mesomorph,Yes,F,Yes,Burger,VeryHigh,4900,?
+1054,40,146.5,4,Missing,?,blond,Yes,Missing,Yes,F,Yes,Burger,VeryHigh,5242,1309
+1055,35,155.19,?,deep,Northern Irish,brown,Yes,mesomorph,No,F,Yes,Hot Dogs,VeryHigh,4630,?
+1056,51,160.99,6,mid range,Boston,brown,Missing,ectomorph,Yes,M,Yes,Burger,7598,7598,483
+1057,22,199.82,**??,high pitched,Southern American,black,No,ectomorph,Yes,M,No,Burger,Medium,Good,------->?
+1058,50,165.35,6,?,Southern American,brown,------->?,mesomorph,No,M,Yes,------->?,VeryHigh,4144,51
+1059,21,191.51,0,mid range,Northern Irish,white/gray,------->?,mesomorph,No,M,No,Hot Dogs,High,great,657
+1060,35,161.25,Missing,?,East Coast City Dialects,black,Yes,endomorph,Yes,M,Yes,**??,8721,8721,Missing
+1061,23,178.85,2,high pitched,Midwestern American,white/gray,No,mesomorph,Missing,F,No,Hot Dogs,VeryHigh,4770,1037
+1062,55,148.5,8,deep,Italian,blond,Yes,mesomorph,No,NB,**??,Burger,VeryHigh,4673,1411
+------->?,30,157.89,8,deep,Midwestern American,blond,Yes,mesomorph,Yes,F,Yes,Burger,7604,7604,163
+1064,37,159.29,5,deep,Italian,brown,Yes,endomorph,------->?,F,------->?,Hot Dogs,VeryHigh,6814,1409
+1065,Missing,209.6,4,high pitched,Welsh,black,Yes,endomorph,No,M,No,Burger,VeryHigh,3988,1201
+1066,22,175.39,1,deep,East Coast City Dialects,black,No,mesomorph,Yes,NB,No,Pizza,VeryHigh,7485,389
+1067,24,185.24,1,mid range,East Coast City Dialects,?,No,ectomorph,No,NB,No,Burger,VeryHigh,4653,------->?
+1068,19,178.05,4,deep,Southern American,black,Yes,------->?,No,M,?,Hot Dogs,VeryHigh,4589,**??
+1069,22,205.04,0,high pitched,Midwestern American,white/gray,No,endomorph,No,NB,No,Pizza,VeryHigh,5368,------->?
+1070,34,163.9,6,deep,Midwestern American,blond,No,mesomorph,No,F,Yes,Burger,Low,Bad,481
+1071,28,143.53,4,deep,Boston,white/gray,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5848,?
+1072,18,193.37,Missing,mid range,Midwestern American,black,No,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,4065,1377
+1073,33,151.74,4,high pitched,Southern American,blond,Yes,mesomorph,Yes,NB,Yes,Pizza,VeryHigh,6369,1397
+1074,22,176.08,3,mid range,Southern American,white/gray,Yes,endomorph,No,M,No,Pizza,Low,Bad,**??
+1075,**??,153.31,**??,deep,East Coast City Dialects,brown,No,endomorph,?,F,Yes,Burger,VeryHigh,4370,931
+1076,Missing,155.86,7,deep,East Coast City Dialects,brown,Yes,ectomorph,Yes,M,Yes,Burger,9174,9174,Missing
+1077,42,142.56,4,mid range,Southern American,brown,Yes,?,Yes,M,------->?,Burger,VeryHigh,4990,1345
+1078,26,141.49,8,mid range,East Coast City Dialects,brown,Yes,mesomorph,No,NB,Yes,Pizza,9889,9889,165
+?,36,168.68,5,?,Midwestern American,blond,Yes,mesomorph,Yes,?,Yes,Pizza,VeryHigh,3927,1073
+1080,**??,?,5,deep,Scottish,dyed,No,endomorph,Yes,F,Yes,Burger,High,great,1181
+1081,------->?,166.02,**??,mid range,Canadian,blond,Yes,ectomorph,No,F,Yes,Burger,VeryHigh,4274,793
+1082,26,157.19,7,high pitched,Midwestern American,Missing,No,endomorph,Yes,M,Yes,Pizza,VeryHigh,5267,?
+1083,48,------->?,6,deep,french,blond,Missing,mesomorph,Yes,NB,Yes,Burger,VeryHigh,6175,Missing
+1084,19,175.81,0,?,Northern Irish,blond,No,ectomorph,Yes,NB,No,Hot Dogs,9780,9780,1375
+1085,52,165.3,7,deep,East Coast City Dialects,black,Yes,ectomorph,No,M,Yes,Pizza,Medium,Good,479
+1086,------->?,181.26,1,high pitched,Midwestern American,black,No,mesomorph,No,F,No,Hot Dogs,Low,Bad,355
+1087,52,155.77,7,deep,East Coast City Dialects,blond,Yes,mesomorph,Yes,Missing,Yes,Burger,VeryHigh,7175,**??
+1088,35,151.04,**??,deep,Midwestern American,Missing,Yes,ectomorph,No,M,Yes,Missing,VeryHigh,6485,**??
+1089,25,144.19,6,deep,Canadian,brown,Yes,endomorph,No,F,Yes,Burger,8968,8968,403
+1090,38,151.63,6,**??,Canadian,brown,Yes,mesomorph,Yes,NB,Yes,Pizza,High,great,?
+1091,39,164.27,6,deep,Midwestern American,blond,Yes,ectomorph,No,NB,**??,Burger,VeryHigh,3884,------->?
+1092,?,163.95,8,**??,Southern American,blond,Yes,ectomorph,Yes,F,Yes,Burger,VeryHigh,5958,Missing
+1093,47,156.41,5,deep,french,red,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,5245,?
+1094,48,144.6,Missing,deep,Northern Irish,brown,No,mesomorph,Yes,NB,Yes,Hot Dogs,7976,7976,721
+1095,39,162.97,8,deep,East Coast City Dialects,brown,Yes,ectomorph,No,NB,Yes,Burger,Medium,Good,**??
+------->?,39,164.69,6,?,Northern Irish,brown,Yes,mesomorph,Yes,F,Yes,Apple Pie,VeryHigh,6093,**??
+1097,21,172.65,2,deep,East Coast City Dialects,blond,No,ectomorph,Yes,M,No,Burger,VeryHigh,4189,?
+1098,46,?,6,deep,East Coast City Dialects,brown,Yes,mesomorph,Yes,NB,Yes,?,9568,9568,1053
+?,56,164.51,4,**??,french,blond,No,**??,Yes,M,Yes,Hot Dogs,Medium,Good,Missing
+1100,40,164.04,5,high pitched,East Coast City Dialects,red,Yes,**??,Yes,F,Yes,Burger,VeryHigh,4530,**??
+1101,------->?,173.81,4,high pitched,Northern Irish,white/gray,No,ectomorph,Yes,NB,No,Burger,7841,7841,Missing
+1102,53,141.15,8,mid range,Southern American,blond,Yes,ectomorph,No,F,Yes,Burger,8874,8874,?
+1103,35,153.84,7,deep,french,brown,Yes,endomorph,No,M,?,Burger,7544,7544,------->?
+1104,26,?,8,deep,Midwestern American,brown,Yes,mesomorph,No,M,Yes,Apple Pie,Medium,Good,1401
+1105,23,197.97,1,deep,**??,black,No,ectomorph,No,F,No,Hot Dogs,VeryHigh,4736,**??
+1106,38,159.86,7,deep,Scottish,blond,Yes,mesomorph,Yes,M,Yes,Apple Pie,7520,7520,Missing
+1107,22,Missing,1,mid range,Southern American,black,Yes,ectomorph,Yes,M,**??,Hot Dogs,VeryHigh,6397,379
+?,21,183.27,3,deep,Northern Irish,**??,Yes,ectomorph,Yes,**??,No,Pizza,VeryHigh,4214,225
+1109,21,Missing,4,------->?,East Coast City Dialects,brown,No,endomorph,No,M,No,Missing,7716,7716,781
+**??,23,204.89,1,high pitched,Southern American,blond,No,ectomorph,?,Missing,No,Burger,High,great,------->?
+1111,30,157.4,8,deep,Missing,black,Yes,mesomorph,Yes,M,Yes,Burger,8926,8926,------->?
+1112,34,162.74,5,deep,Midwestern American,blond,Yes,endomorph,No,M,Yes,Burger,9896,9896,**??
+1113,39,167.8,5,high pitched,East Coast City Dialects,dyed,Yes,mesomorph,No,F,Yes,------->?,Medium,Good,3
+1114,24,193.25,1,deep,Southern American,brown,No,mesomorph,Yes,M,No,Pizza,VeryHigh,4282,?
+1115,54,154.39,5,mid range,Welsh,brown,Yes,endomorph,Yes,F,Yes,Pizza,High,great,Missing
+1116,21,209.04,3,Missing,Italian,black,No,endomorph,No,NB,Missing,Apple Pie,Low,Bad,**??
+1117,29,141.91,8,high pitched,Midwestern American,brown,Yes,mesomorph,**??,F,**??,Burger,8245,8245,769
+1118,42,150.52,6,mid range,Boston,Missing,Yes,endomorph,Yes,F,Yes,------->?,VeryHigh,3901,1043
+?,19,171.32,**??,deep,french,black,Yes,ectomorph,------->?,M,**??,Hot Dogs,High,great,531
+1120,------->?,198.94,**??,mid range,Yorkshire,black,No,ectomorph,No,NB,No,Hot Dogs,Medium,Good,957
+1121,54,162.32,4,mid range,Midwestern American,blond,Yes,ectomorph,No,M,Yes,Missing,VeryHigh,6932,13
+1122,32,141.8,5,deep,Midwestern American,brown,Yes,mesomorph,Yes,F,Yes,Burger,VeryHigh,6602,Missing
+1123,32,156.27,7,deep,Midwestern American,white/gray,Yes,endomorph,No,M,Yes,Burger,High,great,Missing
+1124,23,Missing,2,mid range,Southern American,black,No,mesomorph,Yes,NB,No,Burger,Low,Bad,157
+1125,37,169.1,7,deep,East Coast City Dialects,brown,No,endomorph,Yes,NB,**??,Apple Pie,High,great,593
+**??,28,142.83,8,high pitched,Northern Irish,black,Yes,mesomorph,No,M,Yes,Pizza,9610,9610,617
+1127,20,177.34,3,deep,Midwestern American,white/gray,Yes,ectomorph,No,M,No,Pizza,Medium,Good,------->?
+1128,26,144.27,?,deep,**??,blond,Yes,endomorph,No,NB,**??,Burger,9593,9593,75
+1129,18,176.42,0,mid range,Northern Irish,white/gray,Yes,endomorph,Yes,M,No,Apple Pie,VeryHigh,5354,881
+1130,32,166.35,5,deep,Southern American,brown,No,mesomorph,No,NB,Yes,Pizza,VeryHigh,7227,1389
+1131,52,160.63,5,high pitched,?,dyed,No,endomorph,Yes,M,Yes,Pizza,9540,9540,**??
+1132,54,------->?,8,?,Southern American,brown,Yes,mesomorph,Yes,F,Yes,Pizza,8217,8217,745
+1133,21,183.17,4,high pitched,Welsh,white/gray,No,ectomorph,No,**??,No,Burger,7858,7858,579
+1134,27,160.29,5,high pitched,Southern American,blond,Yes,mesomorph,Yes,NB,**??,Burger,8731,8731,------->?
+------->?,32,164.35,6,mid range,Midwestern American,blond,No,mesomorph,No,F,Yes,Pizza,VeryHigh,6024,691
+1136,55,155.34,6,Missing,Midwestern American,brown,Yes,mesomorph,Yes,NB,Yes,Burger,Medium,Good,771
+1137,------->?,148.1,7,deep,East Coast City Dialects,black,Yes,ectomorph,No,M,Yes,Pizza,Low,Bad,557
+1138,23,196.02,4,high pitched,Welsh,black,No,mesomorph,No,M,No,Hot Dogs,9747,9747,Missing
+1139,33,154.57,6,mid range,Southern American,blond,No,ectomorph,No,NB,Yes,Burger,9321,9321,------->?
+1140,24,188.62,3,mid range,East Coast City Dialects,brown,No,endomorph,Yes,M,No,Pizza,VeryHigh,5398,?
+1141,29,Missing,6,mid range,Canadian,blond,Yes,ectomorph,Yes,M,Yes,Burger,High,great,461
+1142,19,178.12,3,deep,Canadian,black,No,mesomorph,Yes,M,**??,Pizza,8539,8539,347
+1143,?,150.84,5,deep,Southern American,brown,Yes,endomorph,No,**??,Yes,?,VeryHigh,6708,937
+1144,45,146.03,6,deep,Southern American,brown,Yes,ectomorph,No,NB,Yes,Burger,High,great,------->?
+1145,28,151.88,8,deep,Cockney,blond,No,mesomorph,Yes,NB,Yes,Burger,VeryHigh,5755,Missing
+**??,19,185.56,4,high pitched,Northern Irish,black,Yes,endomorph,Yes,M,No,Hot Dogs,Low,Bad,1155
+1147,19,208.1,0,mid range,Boston,black,No,mesomorph,Yes,M,No,Hot Dogs,9758,9758,------->?
+1148,25,152.08,5,deep,Southern American,blond,Yes,mesomorph,No,M,Yes,Apple Pie,VeryHigh,5709,57
+1149,37,166.42,7,deep,East Coast City Dialects,red,Yes,ectomorph,Yes,F,Yes,Burger,High,great,639
+1150,19,194.63,Missing,deep,Southern American,?,No,ectomorph,Yes,M,No,Pizza,7558,7558,391
+1151,42,164.01,4,deep,Scottish,brown,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,4941,39
+1152,Missing,178.54,4,high pitched,East Coast City Dialects,white/gray,**??,ectomorph,No,M,No,Pizza,VeryHigh,4980,------->?
+1153,20,171.89,1,high pitched,Southern American,------->?,No,ectomorph,Missing,M,No,Pizza,Medium,Good,1475
+1154,55,155.25,6,Missing,Midwestern American,blond,No,endomorph,Yes,NB,Yes,Burger,VeryHigh,7325,1041
+1155,18,?,2,high pitched,Canadian,red,Yes,ectomorph,Missing,M,No,Burger,VeryHigh,4215,Missing
+1156,21,202.78,1,high pitched,**??,black,No,ectomorph,Yes,NB,No,Pizza,Low,Bad,**??
+1157,19,190.51,0,high pitched,Midwestern American,white/gray,**??,ectomorph,No,------->?,No,Burger,9863,9863,------->?
+1158,56,150.43,8,deep,Midwestern American,------->?,?,mesomorph,No,NB,Yes,Burger,High,great,?
+1159,------->?,189.3,3,mid range,Midwestern American,white/gray,No,ectomorph,No,M,No,Burger,9177,9177,Missing
+1160,22,------->?,0,high pitched,Southern American,black,No,ectomorph,Yes,NB,?,Burger,8995,8995,Missing
+Missing,56,158.72,7,deep,East Coast City Dialects,brown,No,ectomorph,Yes,M,Yes,Burger,Low,Bad,------->?
+1162,24,179.2,3,high pitched,East Coast City Dialects,white/gray,Yes,mesomorph,Yes,M,No,Missing,VeryHigh,5490,1371
+1163,56,?,8,deep,Midwestern American,blond,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,6670,1187
+1164,48,153.03,5,deep,?,white/gray,No,mesomorph,Yes,NB,Yes,Burger,VeryHigh,7349,------->?
+Missing,22,171.53,**??,high pitched,Midwestern American,brown,No,Missing,No,M,No,Hot Dogs,High,great,143
+1166,24,183.85,**??,deep,East Coast City Dialects,white/gray,No,mesomorph,No,NB,No,Burger,High,great,------->?
+1167,23,Missing,1,high pitched,Canadian,white/gray,------->?,ectomorph,No,M,No,Pizza,VeryHigh,6740,1317
+1168,42,167.69,7,mid range,East Coast City Dialects,black,Yes,mesomorph,No,F,Yes,Burger,Low,Bad,1229
+1169,24,208.58,1,mid range,Midwestern American,white/gray,Missing,ectomorph,No,NB,No,Burger,Medium,Good,223
+1170,Missing,184.83,2,deep,East Coast City Dialects,white/gray,No,ectomorph,Yes,M,No,Pizza,Medium,Good,?
+1171,Missing,165.59,Missing,mid range,Southern American,blond,Yes,mesomorph,No,F,Yes,Burger,8440,8440,1365
+?,45,143.48,5,deep,french,black,No,ectomorph,No,F,Yes,Burger,VeryHigh,6068,------->?
+1173,27,163.42,------->?,high pitched,Northern Irish,blond,Missing,mesomorph,Yes,F,Yes,Burger,9874,9874,1127
+1174,19,205.07,2,deep,Northern Irish,white/gray,Yes,mesomorph,Yes,NB,No,Burger,8584,8584,1393
+1175,26,157.18,6,deep,Southern American,blond,Yes,mesomorph,No,M,Yes,?,Medium,Good,?
+1176,18,184.9,4,high pitched,Yorkshire,white/gray,Yes,Missing,Yes,NB,No,Hot Dogs,VeryHigh,6362,**??
+Missing,**??,146.32,4,deep,Northern Irish,dyed,Yes,mesomorph,Yes,NB,Yes,Pizza,8967,8967,1349
+1178,49,141.71,5,mid range,Northern Irish,brown,Yes,mesomorph,**??,NB,Yes,Burger,8822,8822,17
+1179,52,150.07,8,?,?,blond,Yes,endomorph,No,F,Yes,?,Low,Bad,919
+1180,45,154.96,4,deep,Southern American,blond,Yes,endomorph,Yes,NB,Yes,Burger,8471,8471,Missing
+------->?,------->?,195.45,1,------->?,Southern American,Missing,Yes,ectomorph,Yes,F,No,Burger,VeryHigh,6698,653
+1182,48,165.77,8,mid range,Northern Irish,------->?,No,------->?,No,NB,Yes,Pizza,VeryHigh,5341,725
+1183,35,146.09,6,mid range,Midwestern American,black,No,mesomorph,No,M,Yes,Burger,9820,9820,?
+1184,50,145.17,4,deep,Northern Irish,?,No,**??,Yes,NB,Yes,Hot Dogs,VeryHigh,7431,?
+1185,46,157.44,5,high pitched,Northern Irish,brown,No,ectomorph,No,M,Yes,Burger,High,great,303
+1186,40,164.51,5,high pitched,Southern American,black,Yes,ectomorph,Yes,NB,Yes,Burger,Medium,Good,?
+1187,22,196.07,0,high pitched,Midwestern American,white/gray,Yes,ectomorph,Yes,Missing,No,Burger,9240,9240,1347
+1188,20,**??,2,Missing,Midwestern American,white/gray,No,Missing,Yes,NB,No,Burger,9601,9601,Missing
+1189,29,148.79,6,deep,Southern American,brown,No,ectomorph,No,------->?,Yes,Burger,VeryHigh,4646,1321
+1190,22,Missing,2,high pitched,East Coast City Dialects,white/gray,No,mesomorph,------->?,M,No,Hot Dogs,8360,8360,519
+1191,28,169.88,8,deep,------->?,blond,No,mesomorph,------->?,F,Yes,Pizza,VeryHigh,6920,1159
+1192,44,153.72,5,high pitched,Northern Irish,**??,Yes,ectomorph,No,M,Yes,Burger,VeryHigh,3878,575
+1193,18,192.11,1,deep,Midwestern American,brown,No,ectomorph,Yes,M,No,Apple Pie,VeryHigh,5658,?
+1194,43,167.4,Missing,**??,french,blond,?,ectomorph,Yes,M,Yes,Pizza,High,great,Missing
+Missing,34,152.81,4,deep,Southern American,blond,Yes,ectomorph,No,F,Yes,Burger,9852,9852,------->?
+1196,19,188.67,2,high pitched,Cockney,white/gray,Yes,ectomorph,No,M,No,Pizza,VeryHigh,5173,**??
+1197,19,180.15,3,high pitched,Midwestern American,brown,No,endomorph,No,F,No,Burger,VeryHigh,3987,?
+1198,22,192.25,3,mid range,Northern Irish,black,No,ectomorph,Yes,F,Missing,Burger,Low,Bad,421
+1199,36,147.65,5,deep,Welsh,brown,No,ectomorph,No,F,Yes,Burger,VeryHigh,6863,1297
+1200,**??,152.37,5,high pitched,Southern American,brown,Missing,ectomorph,No,M,Yes,Apple Pie,9049,9049,999
+1201,53,159.18,4,high pitched,Midwestern American,brown,No,endomorph,------->?,M,Yes,Hot Dogs,VeryHigh,6819,465
+1202,38,163.96,------->?,deep,Italian,brown,No,mesomorph,No,F,Yes,Burger,Low,Bad,437
+1203,24,176.77,0,deep,**??,Missing,No,mesomorph,No,M,No,Hot Dogs,Low,Bad,263
+1204,53,162.71,5,mid range,Midwestern American,blond,Yes,endomorph,Yes,M,Yes,Pizza,VeryHigh,3570,------->?
+1205,23,181.98,1,mid range,Midwestern American,red,No,endomorph,No,F,No,?,9496,9496,?
+1206,43,147.14,4,deep,Boston,blond,Yes,mesomorph,No,M,Yes,Missing,8362,8362,------->?
+1207,45,167.09,**??,deep,East Coast City Dialects,blond,Yes,endomorph,No,F,Yes,Pizza,VeryHigh,4807,?
+1208,52,165.55,6,high pitched,East Coast City Dialects,blond,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,5608,395
+1209,46,144.35,5,mid range,Midwestern American,brown,Yes,------->?,No,M,Yes,Burger,VeryHigh,7081,------->?
+1210,56,154.02,6,?,Welsh,blond,No,mesomorph,No,F,Yes,Pizza,Low,Bad,253
+1211,53,143.29,5,Missing,Yorkshire,blond,Yes,mesomorph,No,F,Yes,Burger,High,great,1485
+1212,40,143.24,6,mid range,Northern Irish,black,Yes,ectomorph,Yes,M,Yes,Pizza,8619,8619,?
+1213,36,158.06,**??,deep,Scottish,brown,Yes,mesomorph,Yes,F,**??,Burger,VeryHigh,7271,951
+1214,29,?,6,deep,Southern American,brown,Yes,endomorph,No,F,Yes,Burger,Low,Bad,385
+1215,Missing,159,8,deep,Boston,white/gray,No,endomorph,No,F,?,Hot Dogs,7719,7719,Missing
+1216,20,186.13,3,mid range,Midwestern American,black,No,ectomorph,No,M,No,Burger,Medium,Good,1117
+1217,38,142.93,4,deep,Northern Irish,blond,Yes,endomorph,Yes,F,Yes,Hot Dogs,8236,8236,?
+1218,46,144.37,7,deep,East Coast City Dialects,brown,Yes,endomorph,No,M,Yes,Apple Pie,8356,8356,353
+1219,**??,157.3,6,high pitched,Yorkshire,brown,No,ectomorph,Yes,M,Yes,Missing,VeryHigh,4306,?
+1220,38,158.12,4,deep,?,blond,No,endomorph,Missing,F,Yes,Burger,Low,Bad,561
+1221,21,184.86,Missing,mid range,Missing,white/gray,Yes,mesomorph,Yes,NB,No,Burger,VeryHigh,4973,577
+1222,35,162.28,7,mid range,Cockney,blond,No,?,Yes,NB,Yes,Burger,VeryHigh,6865,?
+1223,26,?,7,mid range,Southern American,blond,Yes,**??,Yes,?,------->?,Pizza,7999,7999,Missing
+1224,47,Missing,4,deep,Midwestern American,blond,No,ectomorph,Yes,NB,Yes,Apple Pie,7628,7628,853
+1225,31,150.42,6,deep,french,brown,No,endomorph,------->?,M,Yes,Burger,High,great,?
+------->?,23,208.28,2,deep,Northern Irish,black,No,endomorph,Yes,F,No,Hot Dogs,High,great,Missing
+1227,43,159.18,7,deep,Welsh,black,No,ectomorph,Yes,F,Yes,Burger,High,great,**??
+1228,**??,141.74,7,------->?,Yorkshire,blond,Yes,mesomorph,Yes,NB,Yes,?,High,great,------->?
+1229,**??,192.3,0,high pitched,Southern American,black,No,endomorph,No,NB,No,Hot Dogs,9022,9022,1077
+------->?,**??,180.6,Missing,high pitched,------->?,white/gray,No,ectomorph,No,Missing,No,Burger,High,great,583
+1231,24,198.89,0,high pitched,Midwestern American,white/gray,No,ectomorph,Yes,NB,No,Hot Dogs,VeryHigh,6516,1083
+1232,42,145,5,mid range,Northern Irish,black,No,mesomorph,Yes,M,Yes,Burger,VeryHigh,5008,------->?
+1233,48,164.16,7,**??,Southern American,red,Yes,ectomorph,**??,M,Yes,**??,Low,Bad,361
+1234,25,161.78,6,deep,Welsh,brown,No,endomorph,No,F,?,Burger,VeryHigh,5849,Missing
+1235,33,Missing,4,deep,Midwestern American,brown,Yes,ectomorph,No,NB,Yes,------->?,VeryHigh,7380,1319
+1236,20,176.04,?,?,Southern American,white/gray,No,mesomorph,No,NB,No,Apple Pie,Medium,Good,------->?
+1237,47,156.65,8,deep,East Coast City Dialects,brown,No,mesomorph,Yes,F,?,Burger,9520,9520,183
+1238,20,200.44,0,high pitched,East Coast City Dialects,white/gray,?,ectomorph,No,?,No,Pizza,8244,8244,1085
+1239,39,150.09,5,mid range,East Coast City Dialects,**??,Yes,ectomorph,No,M,Yes,Pizza,Medium,Good,------->?
+1240,Missing,?,1,deep,Midwestern American,black,Missing,ectomorph,No,M,No,------->?,High,great,731
+1241,25,156.07,6,deep,Southern American,blond,No,mesomorph,Yes,F,Yes,Burger,VeryHigh,5786,1471
+1242,39,140.22,8,mid range,Welsh,dyed,------->?,ectomorph,?,F,Yes,Hot Dogs,VeryHigh,4337,Missing
+Missing,18,186.12,4,deep,Southern American,brown,No,Missing,No,M,No,Burger,VeryHigh,7016,Missing
+1244,24,197.27,1,mid range,East Coast City Dialects,black,No,endomorph,No,NB,No,?,VeryHigh,5695,?
+1245,**??,151.02,8,high pitched,Midwestern American,white/gray,Yes,endomorph,Yes,M,Yes,Burger,High,great,857
+1246,40,140.59,8,deep,Canadian,brown,No,mesomorph,No,NB,Yes,Pizza,High,great,Missing
+1247,41,149.95,4,mid range,Northern Irish,blond,------->?,ectomorph,No,M,Yes,Burger,Low,Bad,949
+1248,45,**??,**??,mid range,Southern American,brown,Yes,ectomorph,No,M,Yes,Burger,VeryHigh,5309,1413
+1249,24,187.74,0,high pitched,East Coast City Dialects,white/gray,Yes,mesomorph,------->?,M,No,Hot Dogs,Medium,Good,Missing
+1250,19,184.95,1,high pitched,Northern Irish,black,Yes,mesomorph,No,NB,No,Hot Dogs,High,great,------->?
+1251,45,154.05,8,mid range,Southern American,dyed,No,endomorph,No,NB,Yes,Burger,VeryHigh,6647,747
+1252,54,148.64,7,high pitched,Welsh,blond,Yes,ectomorph,Yes,M,Yes,Burger,High,great,Missing
+1253,Missing,140.75,4,mid range,Midwestern American,------->?,Yes,mesomorph,Yes,M,Yes,Pizza,8288,8288,97
+1254,18,202.68,2,high pitched,Midwestern American,white/gray,No,ectomorph,Yes,M,No,Pizza,VeryHigh,3704,415
+1255,31,149.9,8,high pitched,Cockney,blond,No,Missing,Yes,NB,?,Burger,Medium,Good,675
+1256,24,190.32,2,high pitched,East Coast City Dialects,black,**??,ectomorph,No,M,No,Pizza,VeryHigh,7268,1081
+1257,56,160.63,6,deep,Northern Irish,blond,Missing,Missing,Yes,NB,Yes,Burger,9506,9506,963
+1258,45,162.63,4,deep,East Coast City Dialects,black,No,mesomorph,Yes,M,Yes,Pizza,8548,8548,217
+1259,48,145.27,8,deep,Southern American,blond,Yes,ectomorph,Yes,F,Yes,Apple Pie,Low,Bad,Missing
+Missing,29,148.06,4,high pitched,Northern Irish,brown,Yes,endomorph,No,M,Yes,Pizza,Low,Bad,547
+1261,20,Missing,2,high pitched,Yorkshire,black,Yes,endomorph,No,M,No,Missing,Medium,Good,453
+1262,49,Missing,7,deep,Missing,brown,?,mesomorph,**??,M,Yes,Burger,7642,7642,?
+1263,26,148.29,7,mid range,Italian,blond,Yes,endomorph,Yes,F,Yes,Missing,VeryHigh,3732,**??
+1264,38,162.95,7,mid range,Welsh,brown,No,ectomorph,No,NB,Yes,Burger,Medium,Good,1175
+1265,31,162.34,8,high pitched,------->?,black,Yes,endomorph,Yes,?,Yes,Burger,VeryHigh,7328,**??
+1266,52,161.36,7,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,F,Yes,Burger,Medium,Good,**??
+1267,------->?,179.16,4,deep,Boston,black,Yes,------->?,?,M,No,Burger,VeryHigh,4597,669
+1268,22,?,4,high pitched,french,red,No,ectomorph,Yes,M,No,Hot Dogs,High,great,?
+1269,55,140.91,7,mid range,Canadian,**??,No,------->?,No,**??,Yes,Burger,9478,9478,------->?
+1270,43,152.91,4,?,?,blond,No,mesomorph,No,F,Yes,Pizza,8215,8215,------->?
+1271,23,176.65,0,deep,Southern American,**??,No,------->?,Yes,F,No,**??,Medium,Good,791
+1272,43,151.75,7,deep,Midwestern American,blond,No,**??,No,NB,Yes,Burger,8297,8297,------->?
+1273,39,141.97,8,deep,?,Missing,Yes,ectomorph,Yes,M,**??,Pizza,8183,8183,455
+1274,22,189.66,0,high pitched,Southern American,white/gray,No,mesomorph,?,M,No,Hot Dogs,Low,Bad,1259
+**??,49,148.28,7,deep,Midwestern American,brown,Yes,mesomorph,No,M,?,Burger,High,great,629
+1276,49,157.35,4,deep,East Coast City Dialects,black,Yes,ectomorph,?,------->?,**??,Burger,VeryHigh,5808,------->?
+1277,39,?,?,deep,Northern Irish,white/gray,Yes,mesomorph,No,NB,Yes,Hot Dogs,VeryHigh,4865,599
+1278,23,179.91,?,high pitched,Italian,white/gray,No,ectomorph,No,NB,No,Burger,Low,Bad,?
+1279,21,181.86,2,high pitched,Midwestern American,white/gray,No,mesomorph,Yes,**??,No,Hot Dogs,VeryHigh,3977,?
+1280,30,145.89,8,deep,East Coast City Dialects,black,No,**??,Yes,M,Yes,Burger,8693,8693,1331
+1281,44,?,4,deep,Canadian,blond,Yes,mesomorph,Yes,F,Yes,Pizza,8952,8952,------->?
+1282,22,174.6,0,high pitched,Italian,white/gray,?,endomorph,Yes,NB,No,Pizza,Low,Bad,Missing
+1283,42,149.87,8,deep,Cockney,blond,Yes,------->?,No,------->?,Yes,Burger,9450,9450,?
+1284,24,203.94,3,high pitched,East Coast City Dialects,black,No,endomorph,Yes,F,------->?,Burger,8724,8724,?
+1285,22,183.74,3,deep,Italian,white/gray,No,endomorph,No,M,No,?,VeryHigh,6634,**??
+1286,18,188.36,0,mid range,------->?,?,Yes,ectomorph,No,NB,No,Hot Dogs,9408,9408,------->?
+1287,23,180.62,**??,high pitched,Northern Irish,?,------->?,Missing,No,F,**??,Apple Pie,Medium,Good,Missing
+1288,30,150.18,6,deep,Northern Irish,blond,------->?,endomorph,No,F,Yes,Burger,VeryHigh,6514,205
+1289,56,168.2,Missing,high pitched,Northern Irish,brown,Yes,mesomorph,No,NB,Yes,Pizza,9356,9356,619
+1290,Missing,146.46,5,**??,Southern American,brown,Yes,ectomorph,Yes,------->?,Yes,Hot Dogs,Medium,Good,Missing
+1291,24,------->?,4,mid range,Midwestern American,white/gray,No,ectomorph,Yes,M,No,Burger,8363,8363,------->?
+1292,43,148.45,7,deep,Canadian,blond,Yes,ectomorph,------->?,M,Yes,Burger,VeryHigh,7372,1489
+1293,18,Missing,4,mid range,Southern American,white/gray,No,mesomorph,No,M,No,Burger,VeryHigh,5307,965
+1294,**??,153.98,7,deep,**??,brown,Yes,**??,No,NB,Yes,**??,VeryHigh,6554,Missing
+1295,------->?,154.86,4,deep,Northern Irish,black,Yes,endomorph,No,F,?,Pizza,VeryHigh,4768,------->?
+1296,43,162.31,8,**??,Northern Irish,blond,?,ectomorph,No,NB,Yes,Missing,8369,8369,427
+1297,56,147.73,Missing,?,Midwestern American,blond,Yes,mesomorph,No,NB,Yes,Apple Pie,VeryHigh,3712,?
+1298,41,155.22,4,deep,Midwestern American,brown,No,endomorph,Yes,NB,Yes,Missing,VeryHigh,4320,Missing
+1299,30,161.43,6,deep,East Coast City Dialects,brown,No,mesomorph,?,M,Yes,Burger,VeryHigh,6816,687
+**??,-25,203.97,Missing,high pitched,Scottish,black,No,endomorph,No,NB,No,Burger,VeryHigh,6769,**??
+1301,48,152.62,5,mid range,Midwestern American,brown,Yes,ectomorph,No,NB,Yes,**??,Low,Bad,------->?
+1302,45,142.54,4,deep,Northern Irish,black,Yes,mesomorph,Yes,F,Yes,Burger,Medium,Good,1327
+1303,24,203.54,4,high pitched,Northern Irish,black,No,------->?,Yes,?,No,Pizza,High,great,?
+1304,50,143.28,4,deep,Cockney,blond,Yes,ectomorph,?,NB,------->?,Pizza,9483,9483,Missing
+1305,37,151.14,5,deep,Northern Irish,brown,------->?,mesomorph,------->?,F,Yes,Hot Dogs,VeryHigh,6715,**??
+1306,50,------->?,7,high pitched,Northern Irish,brown,Yes,endomorph,Yes,F,Yes,Burger,VeryHigh,6347,Missing
+1307,53,159.46,4,mid range,Cockney,**??,Yes,endomorph,No,NB,Yes,Burger,9502,9502,409
+1308,56,146.6,8,deep,East Coast City Dialects,brown,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,5064,185
+1309,44,166.46,------->?,high pitched,East Coast City Dialects,blond,Yes,ectomorph,Yes,NB,------->?,Hot Dogs,Medium,Good,------->?
+1310,20,174.04,2,**??,Welsh,white/gray,No,ectomorph,No,F,No,Hot Dogs,High,great,**??
+1311,21,178.79,1,high pitched,------->?,black,Yes,mesomorph,No,NB,No,Burger,High,great,?
+1312,24,174.89,2,deep,Southern American,brown,Yes,mesomorph,No,M,No,Pizza,Low,Bad,------->?
+1313,41,163.96,7,mid range,Yorkshire,blond,?,ectomorph,Yes,M,Yes,**??,Low,Bad,Missing
+1314,32,152.37,5,deep,Southern American,blond,No,mesomorph,Missing,NB,Missing,Missing,VeryHigh,3851,**??
+1315,30,141.21,7,?,Northern Irish,brown,Yes,?,No,M,------->?,Missing,Medium,Good,------->?
+1316,35,149.62,7,deep,East Coast City Dialects,brown,Missing,mesomorph,Yes,M,Yes,Hot Dogs,VeryHigh,5188,423
+**??,21,189.29,?,high pitched,**??,brown,No,ectomorph,Yes,F,No,Burger,9186,9186,**??
+1318,21,185.6,1,mid range,french,black,Yes,endomorph,Yes,**??,No,Pizza,VeryHigh,4595,1161
+1319,27,153.23,4,deep,East Coast City Dialects,brown,Yes,endomorph,No,F,**??,Pizza,High,great,681
+1320,53,141.61,6,deep,Midwestern American,blond,Yes,ectomorph,No,F,Yes,Pizza,VeryHigh,6615,?
+1321,34,167.33,6,high pitched,Southern American,**??,Yes,ectomorph,No,NB,Yes,Apple Pie,9335,9335,549
+1322,22,------->?,------->?,deep,?,black,Yes,ectomorph,Yes,M,No,Burger,9814,9814,985
+1323,21,196.55,3,mid range,Northern Irish,white/gray,No,ectomorph,No,M,No,Pizza,8601,8601,291
+------->?,47,?,6,deep,french,------->?,Yes,ectomorph,Yes,M,Yes,Burger,High,great,Missing
+1325,20,174.01,0,high pitched,Midwestern American,white/gray,No,ectomorph,No,NB,No,Apple Pie,VeryHigh,6139,251
+1326,18,175.8,2,mid range,Southern American,black,No,ectomorph,Yes,F,No,Burger,8180,8180,1193
+1327,21,179.25,0,mid range,Southern American,white/gray,No,ectomorph,No,NB,No,Burger,Medium,Good,Missing
+1328,54,164.19,Missing,**??,Southern American,brown,Yes,mesomorph,Yes,F,Yes,Pizza,VeryHigh,7075,?
+1329,35,161.19,------->?,high pitched,**??,brown,Yes,mesomorph,------->?,M,Yes,Missing,Low,Bad,871
+**??,43,166.15,5,deep,East Coast City Dialects,dyed,?,?,Yes,NB,Yes,Burger,8670,8670,69
+1331,39,167.02,6,mid range,Southern American,------->?,Yes,mesomorph,Yes,M,Yes,------->?,High,great,------->?
+1332,21,198.16,1,mid range,Southern American,black,No,mesomorph,Yes,F,No,Hot Dogs,Medium,Good,803
+1333,22,194.07,4,**??,Southern American,white/gray,Yes,ectomorph,Yes,F,No,Hot Dogs,High,great,------->?
+1334,38,140.78,6,deep,Midwestern American,blond,Yes,endomorph,No,M,Yes,Burger,7757,7757,------->?
+1335,21,200.18,2,?,Canadian,brown,------->?,mesomorph,?,M,No,Apple Pie,8432,8432,95
+1336,22,183.54,2,mid range,East Coast City Dialects,black,Yes,mesomorph,Yes,M,No,Burger,VeryHigh,4417,1479
+1337,55,153.67,6,deep,Italian,brown,No,ectomorph,No,M,Yes,Pizza,VeryHigh,4376,331
+1338,22,185.37,4,**??,Northern Irish,black,Yes,ectomorph,Yes,M,No,**??,Low,Bad,1087
+1339,20,171.21,4,high pitched,Northern Irish,black,No,mesomorph,Yes,M,No,Hot Dogs,Medium,Good,351
+1340,44,145.04,7,**??,Welsh,Missing,Yes,mesomorph,No,F,Yes,------->?,8630,8630,85
+1341,24,206.36,3,mid range,Midwestern American,Missing,No,endomorph,No,F,No,Burger,High,great,49
+1342,32,145.34,8,mid range,Southern American,blond,Yes,?,Yes,NB,Yes,Burger,7941,7941,?
+1343,24,?,2,high pitched,Northern Irish,black,No,ectomorph,Yes,M,No,**??,VeryHigh,5780,------->?
+1344,28,142.15,7,high pitched,Canadian,brown,No,Missing,Yes,M,Yes,Burger,8377,8377,?
+1345,47,?,7,high pitched,Canadian,blond,Yes,endomorph,No,?,Yes,Apple Pie,8888,8888,**??
+1346,19,180.1,4,high pitched,Southern American,white/gray,No,ectomorph,No,NB,No,Missing,9545,9545,------->?
+1347,25,154.41,7,deep,Northern Irish,blond,Yes,mesomorph,Yes,F,Yes,**??,VeryHigh,4672,565
+1348,------->?,143.41,------->?,mid range,Northern Irish,blond,Yes,mesomorph,No,M,------->?,Pizza,9669,9669,?
+1349,44,168.33,7,------->?,Boston,brown,Yes,mesomorph,No,F,Yes,Pizza,8542,8542,**??
+1350,21,200.45,0,high pitched,Boston,brown,No,Missing,?,M,No,Pizza,High,great,723
+1351,18,192.34,2,deep,Northern Irish,Missing,Yes,ectomorph,Yes,M,No,Pizza,VeryHigh,5435,119
+1352,32,161.67,6,deep,Welsh,blond,?,endomorph,Yes,NB,Yes,------->?,Medium,Good,Missing
+Missing,50,152.01,Missing,deep,Southern American,brown,No,mesomorph,No,NB,Yes,Pizza,Low,Bad,------->?
+**??,20,197.78,1,high pitched,Midwestern American,white/gray,No,ectomorph,No,NB,No,Burger,Low,Bad,?
+1355,44,151,6,deep,Midwestern American,brown,Yes,endomorph,No,Missing,Yes,Burger,High,great,Missing
+1356,51,166.95,7,deep,Northern Irish,brown,No,endomorph,No,M,Yes,Missing,VeryHigh,4945,341
+1357,42,144.85,7,deep,Scottish,brown,Yes,endomorph,Yes,NB,Yes,Burger,VeryHigh,3540,199
+------->?,32,150.77,6,mid range,Southern American,brown,Yes,endomorph,No,M,Yes,------->?,Medium,Good,387
+1359,21,183.01,4,high pitched,Northern Irish,white/gray,Yes,ectomorph,No,NB,No,Pizza,Medium,Good,1059
+Missing,?,160.07,5,deep,Midwestern American,brown,Missing,mesomorph,No,F,Yes,Hot Dogs,Medium,Good,Missing
+1361,56,142.71,5,deep,Boston,blond,No,ectomorph,Yes,NB,Yes,Hot Dogs,7586,7586,?
+**??,23,180.42,Missing,high pitched,Italian,black,Yes,mesomorph,No,M,No,Burger,High,great,Missing
+1363,32,145.93,8,deep,Northern Irish,black,Yes,ectomorph,No,NB,Yes,Burger,Medium,Good,**??
+1364,21,202.25,4,mid range,Northern Irish,brown,No,ectomorph,Yes,M,No,Hot Dogs,High,great,1279
+1365,23,198.08,1,mid range,Northern Irish,white/gray,Yes,endomorph,Yes,NB,**??,Hot Dogs,Medium,Good,------->?
+1366,32,167.48,**??,deep,Northern Irish,black,Yes,mesomorph,No,NB,Yes,?,VeryHigh,6231,?
+1367,24,179.24,2,high pitched,East Coast City Dialects,white/gray,Yes,ectomorph,Yes,M,------->?,Hot Dogs,8378,8378,?
+1368,53,164.53,8,deep,Midwestern American,black,Yes,Missing,No,M,Yes,Burger,VeryHigh,6610,**??
+1369,18,187.22,1,high pitched,Midwestern American,blond,------->?,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,6804,Missing
+1370,19,193.44,**??,deep,Northern Irish,white/gray,Yes,------->?,No,M,No,Hot Dogs,9831,9831,------->?
+**??,26,149.04,4,deep,french,brown,Yes,mesomorph,No,NB,Yes,Pizza,Medium,Good,1057
+1372,32,147.02,4,deep,Southern American,blond,Yes,mesomorph,Yes,F,Yes,Burger,High,great,1493
+1373,21,177.7,3,**??,Southern American,black,No,ectomorph,Yes,NB,No,Burger,8850,8850,**??
+1374,**??,**??,4,?,East Coast City Dialects,?,Missing,mesomorph,No,F,Yes,Hot Dogs,8849,8849,------->?
+?,37,162.82,7,deep,Midwestern American,Missing,Yes,ectomorph,Yes,M,Yes,Burger,VeryHigh,4210,1147
+1376,43,?,5,deep,Missing,brown,Yes,ectomorph,Yes,M,Yes,Burger,9304,9304,?
+1377,46,166.57,?,deep,Boston,brown,Yes,mesomorph,No,NB,Yes,Burger,VeryHigh,6083,533
+1378,22,202.08,2,high pitched,**??,white/gray,Yes,ectomorph,No,?,No,Pizza,High,great,1149
+1379,42,143.73,6,**??,**??,brown,No,endomorph,Yes,F,Yes,Burger,Low,Bad,335
+1380,Missing,144.53,6,mid range,Midwestern American,brown,No,mesomorph,No,F,Yes,Burger,VeryHigh,3555,439
+------->?,24,188.01,4,high pitched,East Coast City Dialects,black,Yes,endomorph,Yes,F,No,Hot Dogs,High,great,93
+1382,20,Missing,**??,mid range,Italian,white/gray,No,ectomorph,Yes,NB,No,Burger,Medium,Good,703
+**??,21,174.8,1,mid range,Italian,white/gray,No,ectomorph,No,NB,No,Burger,VeryHigh,6854,909
+1384,30,145.09,5,deep,Cockney,**??,**??,ectomorph,No,NB,Yes,Burger,VeryHigh,7116,1075
+1385,23,193.01,2,high pitched,Midwestern American,black,------->?,ectomorph,No,M,No,Pizza,Low,Bad,Missing
+1386,54,161.35,8,Missing,Scottish,blond,No,ectomorph,No,NB,Yes,Burger,Low,Bad,167
+1387,33,152.29,6,deep,Southern American,blond,No,endomorph,No,NB,Yes,Pizza,VeryHigh,4584,Missing
+?,Missing,153.4,5,deep,Cockney,brown,No,mesomorph,No,F,Yes,Burger,High,great,?
+1389,47,Missing,6,deep,Southern American,black,Yes,ectomorph,Yes,M,**??,Hot Dogs,High,great,Missing
+1390,21,175.9,0,mid range,Northern Irish,black,Yes,ectomorph,Yes,NB,No,Hot Dogs,VeryHigh,7266,?
+1391,56,166.1,6,high pitched,Southern American,white/gray,Yes,mesomorph,No,M,Yes,Burger,VeryHigh,5432,Missing
+1392,21,**??,2,?,Boston,brown,Yes,Missing,Yes,M,No,Hot Dogs,Low,Bad,311
+1393,------->?,176.79,2,high pitched,Cockney,white/gray,No,ectomorph,Yes,NB,No,Hot Dogs,VeryHigh,6091,?
+1394,55,157.11,**??,deep,**??,brown,Yes,endomorph,Yes,F,Yes,Burger,9466,9466,Missing
+1395,20,------->?,0,mid range,Southern American,white/gray,No,mesomorph,No,F,No,Hot Dogs,VeryHigh,5546,?
+1396,49,157.49,4,deep,Northern Irish,brown,No,ectomorph,No,M,Yes,Burger,Low,Bad,?
+?,?,145.63,8,deep,Southern American,blond,No,Missing,Yes,M,Yes,Burger,8013,8013,1351
+1398,46,143.45,4,high pitched,Northern Irish,brown,No,ectomorph,Yes,F,Yes,**??,High,great,Missing
+1399,?,**??,1,mid range,Midwestern American,black,Yes,mesomorph,Yes,NB,No,Burger,VeryHigh,4870,Missing
+1400,32,152.83,5,?,Northern Irish,?,Yes,?,Yes,NB,Yes,------->?,VeryHigh,6044,**??
+1401,18,?,2,deep,East Coast City Dialects,white/gray,No,Missing,No,M,No,**??,9858,9858,301
+1402,27,166.23,5,deep,Southern American,brown,Yes,ectomorph,No,M,Yes,Burger,VeryHigh,4137,1239
+1403,37,144.86,5,deep,Scottish,brown,No,endomorph,Yes,NB,Yes,Hot Dogs,VeryHigh,5384,851
+Missing,54,159,4,mid range,Welsh,blond,No,mesomorph,Yes,NB,?,Pizza,High,great,811
+1405,51,156.06,5,mid range,East Coast City Dialects,blond,No,mesomorph,No,M,Yes,Apple Pie,9567,9567,Missing
+1406,35,157.59,8,deep,french,brown,Yes,?,Yes,M,Yes,Burger,VeryHigh,5280,?
+1407,------->?,182.91,3,mid range,Yorkshire,------->?,No,ectomorph,No,NB,No,Burger,VeryHigh,7169,1429
+------->?,53,157.07,7,deep,Yorkshire,brown,Yes,endomorph,Yes,F,**??,Burger,Low,Bad,727
+1409,47,156.81,4,mid range,East Coast City Dialects,brown,Yes,mesomorph,Yes,NB,Yes,Burger,VeryHigh,4751,37
+**??,43,153.59,6,deep,Southern American,brown,Yes,ectomorph,No,M,Yes,Burger,9957,9957,**??
+1411,37,156.91,5,mid range,Midwestern American,blond,------->?,mesomorph,Yes,NB,Yes,Burger,VeryHigh,7183,663
+1412,19,202.4,3,deep,East Coast City Dialects,white/gray,No,ectomorph,No,M,No,Hot Dogs,Low,Bad,Missing
+1413,28,151.27,7,deep,Northern Irish,blond,Yes,mesomorph,No,NB,Yes,Burger,Low,Bad,933
+**??,30,145.72,7,mid range,Missing,blond,Yes,ectomorph,Missing,M,Yes,Apple Pie,9211,9211,45
+1415,24,186.19,4,------->?,Canadian,black,No,ectomorph,Yes,M,No,Hot Dogs,VeryHigh,5781,?
+------->?,23,187.43,1,------->?,Italian,white/gray,Yes,ectomorph,No,M,No,Pizza,VeryHigh,5282,Missing
+1417,43,161.37,4,high pitched,East Coast City Dialects,brown,No,ectomorph,No,F,Yes,Pizza,VeryHigh,6021,Missing
+1418,21,------->?,1,high pitched,East Coast City Dialects,black,No,ectomorph,Yes,------->?,No,Hot Dogs,VeryHigh,4966,**??
+1419,39,158.68,4,deep,Midwestern American,blond,Yes,endomorph,No,M,?,Burger,VeryHigh,7358,407
+1420,51,?,------->?,mid range,french,blond,Yes,mesomorph,------->?,M,Yes,Pizza,Medium,Good,1263
+1421,36,145.53,6,deep,Scottish,brown,No,mesomorph,No,NB,Yes,Pizza,Low,Bad,1439
+**??,------->?,201.54,3,high pitched,Canadian,black,No,ectomorph,Yes,F,No,Burger,High,great,1035
+1423,20,190.49,2,high pitched,Welsh,black,No,mesomorph,**??,M,No,Hot Dogs,VeryHigh,4061,**??
+1424,24,209.92,0,mid range,East Coast City Dialects,white/gray,No,ectomorph,------->?,M,No,Burger,9509,9509,?
+1425,19,183.91,3,high pitched,Scottish,black,No,ectomorph,Yes,M,No,?,VeryHigh,5157,7
+1426,56,?,5,deep,East Coast City Dialects,brown,Yes,------->?,No,F,Yes,Burger,VeryHigh,4523,Missing
+1427,21,195.4,1,mid range,Cockney,Missing,Yes,ectomorph,Yes,NB,No,Hot Dogs,Low,Bad,559
+1428,44,142.69,5,deep,Southern American,blond,No,endomorph,Yes,F,Yes,Burger,Medium,Good,**??
+1429,56,164.78,4,deep,Scottish,blond,Yes,ectomorph,Yes,NB,Yes,Pizza,VeryHigh,4825,**??
+1430,21,172.6,4,------->?,Southern American,blond,No,mesomorph,Missing,NB,No,Burger,High,great,1223
+**??,23,174.71,2,deep,Scottish,Missing,**??,------->?,Yes,M,No,Hot Dogs,7996,7996,943
+1432,18,178.01,1,high pitched,Northern Irish,white/gray,No,ectomorph,Yes,F,No,Hot Dogs,Low,Bad,1237
+1433,22,200.94,2,mid range,Scottish,white/gray,No,endomorph,Yes,M,No,Apple Pie,8326,8326,**??
+1434,19,189.61,4,**??,Northern Irish,white/gray,?,endomorph,No,M,No,Hot Dogs,VeryHigh,4267,419
+1435,30,147.22,7,deep,Boston,?,No,endomorph,Yes,NB,?,Burger,Low,Bad,797
+1436,50,153.15,5,mid range,Midwestern American,white/gray,Yes,mesomorph,No,F,Yes,Apple Pie,8388,8388,------->?
+1437,24,186.75,2,deep,East Coast City Dialects,black,?,ectomorph,Yes,NB,No,Pizza,Medium,Good,671
+1438,35,164.41,6,deep,Northern Irish,blond,Yes,mesomorph,No,F,Yes,Apple Pie,Low,Bad,989
+1439,24,178.05,4,mid range,Southern American,white/gray,Yes,ectomorph,Yes,M,No,Burger,VeryHigh,3873,Missing
+1440,51,**??,5,deep,Welsh,blond,No,ectomorph,?,F,Yes,Apple Pie,Low,Bad,1455
+1441,26,150.73,6,deep,Midwestern American,brown,Yes,ectomorph,No,F,Yes,------->?,Low,Bad,**??
+------->?,37,164.5,8,deep,Yorkshire,brown,Yes,ectomorph,No,F,Yes,Burger,Medium,Good,?
+1443,18,205.35,3,mid range,french,black,No,ectomorph,No,NB,No,Pizza,8570,8570,197
+1444,39,161.26,4,deep,Northern Irish,brown,Missing,ectomorph,Yes,NB,Yes,Pizza,VeryHigh,6321,------->?
+1445,48,Missing,7,deep,Canadian,**??,No,endomorph,No,M,Yes,Apple Pie,VeryHigh,6517,1399
+1446,43,162.26,**??,deep,Northern Irish,blond,Yes,------->?,No,M,Yes,Apple Pie,7608,7608,**??
+1447,52,148.13,6,deep,Midwestern American,------->?,**??,ectomorph,Yes,NB,Yes,Burger,VeryHigh,6858,649
+1448,21,201.6,Missing,deep,Northern Irish,white/gray,No,Missing,Yes,NB,No,Pizza,VeryHigh,4971,Missing
+1449,20,197.93,1,high pitched,East Coast City Dialects,black,No,mesomorph,Yes,F,No,Pizza,VeryHigh,7452,**??
+1450,?,Missing,8,mid range,french,brown,------->?,ectomorph,Yes,F,Yes,Burger,Low,Bad,------->?
+1451,40,158.88,**??,deep,Northern Irish,brown,Yes,mesomorph,Yes,M,Missing,Apple Pie,VeryHigh,5533,429
+1452,29,151.22,6,deep,Canadian,brown,No,endomorph,No,NB,Yes,Burger,VeryHigh,3895,1235
+1453,22,193.81,Missing,**??,Midwestern American,red,No,mesomorph,No,NB,No,Hot Dogs,Low,Bad,?
+1454,43,169.79,7,deep,Scottish,brown,Yes,endomorph,No,?,Yes,Pizza,8607,8607,?
+1455,20,183.45,4,high pitched,Midwestern American,black,**??,mesomorph,Yes,M,No,Burger,VeryHigh,6913,**??
+1456,Missing,170.43,1,deep,Northern Irish,red,No,ectomorph,No,**??,No,Burger,VeryHigh,6211,**??
+1457,23,204.35,2,high pitched,Boston,black,No,ectomorph,No,M,------->?,Burger,VeryHigh,4728,873
+1458,37,168.81,4,high pitched,Boston,brown,No,endomorph,**??,**??,Yes,Burger,High,great,------->?
+1459,33,142.27,------->?,deep,Southern American,black,Yes,mesomorph,No,M,**??,Burger,VeryHigh,6330,293
+1460,23,191.52,3,high pitched,------->?,white/gray,No,endomorph,No,F,No,Apple Pie,7923,7923,9
+1461,21,176.56,0,deep,------->?,white/gray,------->?,endomorph,Yes,F,No,Apple Pie,9226,9226,497
+1462,52,**??,8,mid range,Cockney,blond,Yes,endomorph,No,NB,Yes,Apple Pie,Low,Bad,Missing
+1463,37,163.33,7,deep,Northern Irish,red,**??,ectomorph,Yes,?,Yes,Apple Pie,VeryHigh,6942,**??
+1464,44,------->?,5,deep,Northern Irish,blond,No,Missing,No,F,Yes,Burger,9529,9529,**??
+1465,49,159.68,6,deep,Midwestern American,black,Yes,mesomorph,Missing,NB,Yes,Burger,VeryHigh,4947,475
+------->?,53,160.94,8,deep,Midwestern American,**??,Yes,endomorph,No,NB,Yes,Pizza,VeryHigh,5422,1227
+1467,47,169.76,5,deep,East Coast City Dialects,brown,Missing,------->?,No,M,Yes,Pizza,VeryHigh,7348,11
+1468,18,194.29,1,high pitched,Northern Irish,white/gray,No,mesomorph,Yes,NB,No,Pizza,VeryHigh,3645,**??
+1469,19,193.68,3,high pitched,Missing,white/gray,Yes,?,Yes,?,?,Burger,VeryHigh,6222,159
+1470,34,146.15,6,deep,Boston,brown,No,ectomorph,Missing,F,Yes,Apple Pie,High,great,**??
+1471,22,209.95,1,high pitched,Northern Irish,white/gray,**??,endomorph,Yes,M,No,Hot Dogs,8253,8253,------->?
+1472,20,?,3,high pitched,East Coast City Dialects,white/gray,No,mesomorph,No,NB,No,Hot Dogs,VeryHigh,4793,325
+1473,52,143.9,7,deep,East Coast City Dialects,blond,Yes,ectomorph,Yes,NB,Yes,Apple Pie,High,great,823
+1474,37,168.63,?,deep,**??,**??,Yes,mesomorph,Yes,F,Yes,Pizza,8144,8144,117
+1475,24,177.05,1,high pitched,Cockney,blond,Yes,ectomorph,Yes,M,No,Burger,High,great,**??
+1476,45,144.77,4,deep,Cockney,blond,Yes,mesomorph,Yes,------->?,Yes,Burger,VeryHigh,5819,?
+1477,42,160.9,4,deep,Yorkshire,blond,No,ectomorph,?,**??,Yes,**??,VeryHigh,5549,713
+1478,24,180.13,3,high pitched,Welsh,white/gray,No,ectomorph,No,NB,No,Burger,8065,8065,827
+1479,29,Missing,?,deep,------->?,blond,Yes,ectomorph,No,M,Yes,Apple Pie,8083,8083,?
+1480,28,155.02,8,deep,Midwestern American,brown,Yes,mesomorph,No,F,Yes,Burger,Low,Bad,**??
+1481,19,185.14,3,high pitched,Welsh,black,No,Missing,Yes,M,No,Apple Pie,VeryHigh,6178,Missing
+1482,**??,170.35,1,high pitched,Midwestern American,white/gray,Yes,ectomorph,No,NB,No,Burger,7715,7715,------->?
+1483,52,168.71,6,high pitched,Midwestern American,white/gray,Yes,Missing,Yes,F,Yes,Burger,VeryHigh,5126,243
+1484,20,------->?,Missing,high pitched,Scottish,white/gray,No,mesomorph,No,F,No,Hot Dogs,VeryHigh,6613,1251
+1485,33,142.81,8,deep,Southern American,brown,No,mesomorph,Yes,**??,Missing,Burger,High,great,**??
+1486,54,168.01,4,deep,Southern American,blond,No,mesomorph,No,M,Yes,Pizza,Low,Bad,------->?
+1487,36,160.45,4,deep,Canadian,blond,No,ectomorph,No,NB,Yes,Burger,VeryHigh,3780,787
+1488,23,181.75,0,high pitched,Northern Irish,white/gray,Yes,ectomorph,No,M,No,Pizza,8890,8890,**??
+1489,32,144.41,------->?,Missing,Northern Irish,**??,Yes,ectomorph,Yes,F,------->?,**??,VeryHigh,6697,?
+1490,45,151.41,8,deep,East Coast City Dialects,brown,No,mesomorph,No,F,Yes,Pizza,8769,8769,1001
+1491,21,181.46,3,high pitched,Boston,black,Yes,mesomorph,No,M,?,**??,Medium,Good,**??
+1492,21,205.93,0,mid range,**??,black,No,ectomorph,Yes,M,No,Pizza,VeryHigh,5921,181
+1493,56,141.72,Missing,mid range,Scottish,black,No,mesomorph,No,F,Yes,Pizza,7892,7892,875
+1494,28,148.39,5,deep,french,blond,Yes,mesomorph,No,NB,Yes,Burger,9131,9131,Missing
+**??,Missing,1792.256,2,high pitched,?,black,**??,mesomorph,Yes,NB,No,Burger,High,great,?
+1496,24,189.42,2,mid range,Southern American,brown,No,endomorph,No,M,No,Burger,7895,*Burger,517
+1497,47,154.84,7,deep,East Coast City Dialects,white/gray,Yes,ectomorph,No,NB,Yes,Burger,Medium,Good,641
+1498,23,170.89,3,high pitched,Boston,blond,No,ectomorph,Yes,NB,No,Burger,VeryHigh,4252,21
+1499,?,160.76,8,deep,Midwestern American,blond,Yes,mesomorph,Yes,Missing,Yes,Burger,VeryHigh,3709,**??
